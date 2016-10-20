@@ -1,0 +1,2117 @@
+County,City,Zip,Gender,Race,Ethnicity,Disease,Age Group,Report Date
+Hillsborough,Tampa,33610,Male,White,Non-Hispanic/Latino,Primary,30 - 34,6/21/2010
+Hillsborough,Tampa,33607,Male,White,Non-Hispanic/Latino,Primary,40 - 44,4/14/2010
+Hillsborough,Tampa,33608,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,3/25/2010
+Hillsborough,Tampa,33609,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,5/5/2010
+Hillsborough,Tampa,33610,Male,White,Non-Hispanic/Latino,Primary,40 - 44,4/14/2010
+Hillsborough,Tampa,33611,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,6/29/2010
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,8/17/2010
+Hillsborough,Tampa,33613,Male,White,Hispanic/Latino,Primary,35 - 39,4/14/2010
+Hillsborough,Tampa,33614,Male,White,Non-Hispanic/Latino,Primary,45 - 54,10/19/2010
+Hillsborough,Tampa,33615,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,1/19/2010
+Hillsborough,Tampa,33616,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,2/23/2010
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,12/8/2010
+Hillsborough,Tampa,33618,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,3/25/2010
+Hillsborough,Tampa,33619,Male,White,Non-Hispanic/Latino,Primary,25 - 29,9/22/2010
+Hillsborough,Tampa,33620,Male,Black/African American,Non-Hispanic/Latino,Primary,35 - 39,7/29/2010
+Hillsborough,Tampa,33621,Male,White,Non-Hispanic/Latino,Primary,25 - 29,3/29/2010
+Hillsborough,Tampa,33622,Male,Unknown,Unknown,Primary,45 - 54,4/19/2010
+Hillsborough,Brandon,33623,Male,Black/African American,Non-Hispanic/Latino,Primary,15 - 19,4/23/2010
+Hillsborough,Tampa,33624,Male,Unknown,Unknown,Primary,20 - 24,5/26/2010
+Hillsborough,Tampa,33625,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,6/2/2010
+Hillsborough,Tampa,33626,Male,Black/African American,Unknown,Primary,55 - 64,7/15/2010
+Hillsborough,Valrico,33627,Male,White,Non-Hispanic/Latino,Primary,25 - 29,9/7/2010
+Hillsborough,Tampa,33628,Male,Black/African American,Non-Hispanic/Latino,Primary,30 - 34,10/20/2010
+Hillsborough,Tampa,33629,Male,Black/African American,Non-Hispanic/Latino,Primary,15 - 19,11/23/2010
+Hillsborough,Tampa,33630,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,12/7/2010
+Hillsborough,Tampa,33631,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,10/7/2010
+Hillsborough,Tampa,33632,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,11/9/2010
+Hillsborough,Tampa,33633,FeMaleale,White,Hispanic/Latino,Secondary,20 - 24,9/29/2010
+Hillsborough,Tampa,33634,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,8/20/2010
+Hillsborough,Tampa,33635,Male,White,Non-Hispanic/Latino,Secondary,30 - 34,12/16/2010
+Hillsborough,Tampa,33636,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,7/21/2010
+Hillsborough,Tampa,33637,FeMaleale,Black/African American,Unknown,Secondary,45 - 54,11/1/2010
+Hillsborough,Tampa,33638,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,6/18/2010
+Hillsborough,Tampa,33639,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,2/4/2010
+Hillsborough,Tampa,33640,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,9/8/2010
+Hillsborough,Tampa,33641,Male,Black/African American,Non-Hispanic/Latino,Secondary,55 - 64,6/10/2010
+Hillsborough,Tampa,33642,Male,White,Hispanic/Latino,Secondary,30 - 34,11/24/2010
+Hillsborough,Tampa,33643,Male,White,Hispanic/Latino,Secondary,25 - 29,1/21/2010
+Hillsborough,Tampa,33644,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,9/27/2010
+Hillsborough,Tampa,33645,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,10/6/2010
+Hillsborough,Tampa,33646,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,1/28/2010
+Hillsborough,Tampa,33647,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,12/9/2010
+Hillsborough,Tampa,33648,Male,White,Hispanic/Latino,Secondary,25 - 29,6/11/2010
+Hillsborough,Tampa,33649,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,7/20/2010
+Hillsborough,Tampa,33650,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,7/28/2010
+Hillsborough,Tampa,33651,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,8/11/2010
+Hillsborough,Tampa,33652,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,12/15/2010
+Hillsborough,Tampa,33653,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,9/23/2010
+Hillsborough,Tampa,33654,Male,Black/African American,Non-Hispanic/Latino,Secondary,55 - 64,11/23/2010
+Hillsborough,Tampa,33655,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,1/28/2010
+Hillsborough,Plant City,33656,Male,Unknown,Non-Hispanic/Latino,Secondary,45 - 54,11/5/2010
+Hillsborough,Tampa,33657,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,3/1/2010
+Hillsborough,Tampa,33658,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,2/17/2010
+Hillsborough,Tampa,33659,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,7/19/2010
+Hillsborough,Tampa,33660,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,1/27/2010
+Hillsborough,Tampa,33661,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,7/13/2010
+Hillsborough,Tampa,33662,Male,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,4/16/2010
+Hillsborough,Tampa,33663,Male,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,9/9/2010
+Hillsborough,Lutz,33664,Male,White,Hispanic/Latino,Secondary,45 - 54,7/29/2010
+Hillsborough,Tampa,33665,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,4/16/2010
+Hillsborough,Tampa,33666,Male,White,Non-Hispanic/Latino,Secondary,30 - 34,7/23/2010
+Hillsborough,Tampa,33667,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,4/16/2010
+Hillsborough,Tampa,33668,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,12/8/2010
+Hillsborough,Tampa,33669,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,1/22/2010
+Hillsborough,Tampa,33670,Male,Unknown,Unknown,Secondary,25 - 29,10/22/2010
+Hillsborough,Tampa,33671,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,3/15/2010
+Hillsborough,Tampa,33672,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,2/1/2010
+Hillsborough,Tampa,33673,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,2/10/2010
+Hillsborough,Tampa,33674,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,1/6/2010
+Hillsborough,Tampa,33675,Male,Unknown,Unknown,Secondary,45 - 54,1/15/2010
+Hillsborough,Dover,33676,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,1/19/2010
+Hillsborough,Tampa,33677,Male,White,Non-Hispanic/Latino,Secondary,30 - 34,2/3/2010
+Hillsborough,Tampa,33678,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,2/11/2010
+Hillsborough,Tampa,33679,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,2/17/2010
+Hillsborough,Tampa,33680,Male,Black/African American,Unknown,Secondary,30 - 34,2/25/2010
+Hillsborough,Tampa,33681,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,2/26/2010
+Hillsborough,Tampa,33682,Male,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,2/26/2010
+Hillsborough,Tampa,33683,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,7/21/2010
+Hillsborough,Tampa,33684,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,5/19/2010
+Hillsborough,Riverview,33685,FeMaleale,White,Hispanic/Latino,Secondary,15 - 19,3/30/2010
+Hillsborough,Tampa,33686,Male,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,3/10/2010
+Hillsborough,Tampa,33687,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,3/11/2010
+Hillsborough,Brandon,33688,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,3/17/2010
+Hillsborough,Tampa,33689,Male,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,4/2/2010
+Hillsborough,Tampa,33690,Male,White,Non-Hispanic/Latino,Secondary,30 - 34,4/5/2010
+Hillsborough,Tampa,33691,Male,White,Non-Hispanic/Latino,Secondary,15 - 19,4/19/2010
+Hillsborough,Tampa,33692,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,4/28/2010
+Hillsborough,Tampa,33693,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,4/29/2010
+Hillsborough,Tampa,33694,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,5/3/2010
+Hillsborough,Tampa,33695,Male,White,Non-Hispanic/Latino,Secondary,55 - 64,5/13/2010
+Hillsborough,Ruskin,33696,Male,Unknown,Unknown,Secondary,45 - 54,5/14/2010
+Hillsborough,Tampa,33697,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,5/19/2010
+Hillsborough,Tampa,33698,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,5/20/2010
+Hillsborough,Tampa,33699,Male,Unknown,Unknown,Secondary,45 - 54,6/1/2010
+Hillsborough,Tampa,33700,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,6/16/2010
+Hillsborough,Tampa,33701,Male,White,Hispanic/Latino,Secondary,45 - 54,6/21/2010
+Hillsborough,Tampa,33702,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,7/20/2010
+Hillsborough,Tampa,33703,Male,White,Unknown,Secondary,40 - 44,7/28/2010
+Hillsborough,Seffner,33704,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,7/28/2010
+Hillsborough,Tampa,33705,Male,White,Non-Hispanic/Latino,Secondary,55 - 64,8/6/2010
+Hillsborough,Tampa,33706,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,8/10/2010
+Hillsborough,Tampa,33707,FeMaleale,Black/African American,Unknown,Secondary,25 - 29,8/11/2010
+Hillsborough,Tampa,33708,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,9/7/2010
+Hillsborough,Tampa,33709,Male,White,Hispanic/Latino,Secondary,35 - 39,9/15/2010
+Hillsborough,Riverview,33710,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,9/17/2010
+Hillsborough,Tampa,33711,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,10/7/2010
+Hillsborough,Tampa,33712,FeMaleale,White,Hispanic/Latino,Secondary,40 - 44,10/13/2010
+Hillsborough,Tampa,33713,Male,White,Non-Hispanic/Latino,Secondary,15 - 19,10/14/2010
+Hillsborough,Brandon,33714,Male,White,Hispanic/Latino,Secondary,20 - 24,10/21/2010
+Hillsborough,Tampa,33715,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,10/25/2010
+Hillsborough,Tampa,33716,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,11/1/2010
+Hillsborough,Tampa,33717,Male,Unknown,Unknown,Secondary,40 - 44,11/17/2010
+Hillsborough,Tampa,33718,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,11/19/2010
+Hillsborough,Tampa,33719,Male,White,Hispanic/Latino,Secondary,55 - 64,11/22/2010
+Hillsborough,Tampa,33720,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,12/7/2010
+Hillsborough,Tampa,33721,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,55 - 64,12/7/2010
+Hillsborough,Tampa,33722,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,12/15/2010
+Hillsborough,Tampa,33723,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,12/16/2010
+Hillsborough,Tampa,33724,Male,Black/African American,Hispanic/Latino,EarlyLatent,20 - 24,1/4/2010
+Hillsborough,Tampa,33725,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,8/12/2010
+Hillsborough,Tampa,33726,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,10/12/2010
+Hillsborough,Tampa,33727,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,9/23/2010
+Hillsborough,Tampa,33728,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,9/13/2010
+Hillsborough,Tampa,33729,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,12/9/2010
+Hillsborough,Tampa,33730,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,5/18/2010
+Hillsborough,Tampa,33731,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/14/2010
+Hillsborough,Tampa,33732,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,40 - 44,6/2/2010
+Hillsborough,Tampa,33733,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,11/1/2010
+Hillsborough,Tampa,33734,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,7/23/2010
+Hillsborough,Tampa,33735,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,11/2/2010
+Hillsborough,Tampa,33736,Male,White,Non-Hispanic/Latino,EarlyLatent,20 - 24,12/16/2010
+Hillsborough,Tampa,33737,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,40 - 44,2/25/2010
+Hillsborough,Tampa,33738,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,1/27/2010
+Hillsborough,Tampa,33739,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,4/27/2010
+Hillsborough,Tampa,33740,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,3/3/2010
+Hillsborough,Tampa,33741,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,12/7/2010
+Hillsborough,Tampa,33742,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,10/27/2010
+Hillsborough,Tampa,33743,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,8/19/2010
+Hillsborough,Tampa,33744,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,4/19/2010
+Hillsborough,Tampa,33745,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,2/12/2010
+Hillsborough,Tampa,33746,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,7/1/2010
+Hillsborough,Tampa,33747,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,2/26/2010
+Hillsborough,Tampa,33748,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,4/9/2010
+Hillsborough,Tampa,33749,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,4/26/2010
+Hillsborough,Tampa,33750,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,5/26/2010
+Hillsborough,Tampa,33751,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,7/1/2010
+Hillsborough,Tampa,33752,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,7/21/2010
+Hillsborough,Tampa,33753,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,11/16/2010
+Hillsborough,Tampa,33754,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,3/4/2010
+Hillsborough,Tampa,33755,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,11/17/2010
+Hillsborough,Tampa,33756,Male,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,4/19/2010
+Hillsborough,Tampa,33757,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,2/3/2010
+Hillsborough,Tampa,33758,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,12/7/2010
+Hillsborough,Tampa,33759,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,10/6/2010
+Hillsborough,Tampa,33760,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,5/12/2010
+Hillsborough,Tampa,33761,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,9/7/2010
+Hillsborough,Riverview,33762,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,7/28/2010
+Hillsborough,Tampa,33763,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,11/17/2010
+Hillsborough,Tampa,33764,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,6/2/2010
+Hillsborough,Seffner,33765,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,4/23/2010
+Hillsborough,Tampa,33766,Male,Other,Non-Hispanic/Latino,EarlyLatent,25 - 29,4/27/2010
+Hillsborough,Tampa,33767,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,2/2/2010
+Hillsborough,Tampa,33768,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,1/20/2010
+Hillsborough,Tampa,33769,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,1/4/2010
+Hillsborough,Riverview,33770,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,1/12/2010
+Hillsborough,Riverview,33771,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,10/18/2010
+Hillsborough,Tampa,33772,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,2/19/2010
+Hillsborough,Tampa,33773,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,1/11/2010
+Hillsborough,Tampa,33774,Male,Unknown,Unknown,EarlyLatent,20 - 24,1/21/2010
+Hillsborough,Tampa,33775,Male,White,Hispanic/Latino,EarlyLatent,30 - 34,2/4/2010
+Hillsborough,Tampa,33776,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,2/11/2010
+Hillsborough,Tampa,33777,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,2/12/2010
+Hillsborough,Tampa,33778,FeMaleale,Black/African American,Unknown,EarlyLatent,25 - 29,2/17/2010
+Hillsborough,Riverview,33779,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,2/24/2010
+Hillsborough,Tampa,33780,Male,Unknown,Unknown,EarlyLatent,30 - 34,3/1/2010
+Hillsborough,Tampa,33781,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,3/1/2010
+Hillsborough,Tampa,33782,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,15 - 19,3/1/2010
+Hillsborough,Tampa,33783,FeMaleale,Unknown,Unknown,EarlyLatent,15 - 19,3/3/2010
+Hillsborough,Tampa,33784,Male,White,Non-Hispanic/Latino,EarlyLatent,30 - 34,3/3/2010
+Hillsborough,Tampa,33785,Male,White,Hispanic/Latino,EarlyLatent,25 - 29,3/5/2010
+Hillsborough,Tampa,33786,Male,White,Hispanic/Latino,EarlyLatent,25 - 29,5/10/2010
+Hillsborough,Tampa,33787,Male,White,Hispanic/Latino,EarlyLatent,30 - 34,6/3/2010
+Hillsborough,Tampa,33788,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,6/8/2010
+Hillsborough,Tampa,33789,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,7/1/2010
+Hillsborough,Tampa,33790,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,65 -120,6/15/2010
+Hillsborough,Plant City,33791,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,6/21/2010
+Hillsborough,Tampa,33792,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,6/29/2010
+Hillsborough,Tampa,33793,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,4/20/2010
+Hillsborough,Tampa,33794,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,7/16/2010
+Hillsborough,Tampa,33795,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,7/23/2010
+Hillsborough,Tampa,33796,Male,White,Non-Hispanic/Latino,EarlyLatent,55 - 64,7/28/2010
+Hillsborough,Plant City,33797,Male,White,Non-Hispanic/Latino,EarlyLatent,20 - 24,8/6/2010
+Hillsborough,Tampa,33798,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,8/11/2010
+Hillsborough,Tampa,33799,Male,White,Non-Hispanic/Latino,EarlyLatent,20 - 24,9/16/2010
+Hillsborough,Brandon,33800,Male,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,10/12/2010
+Hillsborough,Brandon,33801,Male,White,Hispanic/Latino,EarlyLatent,15 - 19,11/9/2010
+Hillsborough,Tampa,33802,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,15 - 19,11/29/2010
+Hillsborough,Wimauma,33803,FeMaleale,White,Unknown,EarlyLatent,25 - 29,12/2/2010
+Hillsborough,Tampa,33804,Male,White,Hispanic/Latino,EarlyLatent,25 - 29,12/16/2010
+Hillsborough,Tampa,33805,FeMaleale,Black/African American,Unknown,EarlyLatent,30 - 34,12/29/2010
+Hillsborough,Tampa,33806,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownDuration,30 - 34,12/6/2010
+Hillsborough,Tampa,33807,Male,Black/African American,Non-Hispanic/Latino,UnknownDuration,20 - 24,9/8/2010
+Hillsborough,Tampa,33808,Male,Black/African American,Non-Hispanic/Latino,UnknownDuration,20 - 24,5/18/2010
+Hillsborough,Tampa,33809,Male,White,Hispanic/Latino,UnknownDuration,30 - 34,11/23/2010
+Hillsborough,Tampa,33810,Male,Black/African American,Non-Hispanic/Latino,UnknownDuration,25 - 29,2/12/2010
+Hillsborough,Tampa,33811,FeMaleale,White,Non-Hispanic/Latino,UnknownDuration,25 - 29,7/8/2010
+Hillsborough,Tampa,33812,Male,Black/African American,Non-Hispanic/Latino,UnknownDuration,30 - 34,8/16/2010
+Hillsborough,Tampa,33813,Male,Black/African American,Non-Hispanic/Latino,UnknownDuration,30 - 34,4/5/2010
+Hillsborough,Tampa,33814,FeMaleale,Black/African American,Hispanic/Latino,UnknownDuration,15 - 19,12/27/2010
+Hillsborough,Tampa,33815,Male,Black/African American,Non-Hispanic/Latino,UnknownDuration,20 - 24,10/6/2010
+Hillsborough,Tampa,33816,Male,Other,Hispanic/Latino,UnknownDuration,20 - 24,2/4/2010
+Hillsborough,Tampa,33817,FeMaleale,Unknown,Unknown,UnknownDuration,30 - 34,2/8/2010
+Hillsborough,Tampa,33818,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownDuration,30 - 34,6/22/2010
+Hillsborough,Brandon,33819,Male,Black/African American,Unknown,UnknownDuration,25 - 29,3/3/2010
+Hillsborough,Tampa,33820,Male,Unknown,Unknown,UnknownDuration,25 - 29,4/12/2010
+Hillsborough,Tampa,33821,Male,Unknown,Unknown,UnknownDuration,30 - 34,4/30/2010
+Hillsborough,Tampa,33822,Male,Black/African American,Non-Hispanic/Latino,UnknownDuration,15 - 19,5/4/2010
+Hillsborough,Tampa,33823,Male,Black/African American,Non-Hispanic/Latino,UnknownDuration,15 - 19,5/25/2010
+Hillsborough,Tampa,33824,Male,White,Non-Hispanic/Latino,UnknownDuration,30 - 34,5/21/2010
+Hillsborough,Tampa,33825,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownDuration,20 - 24,7/6/2010
+Hillsborough,Ruskin,33826,FeMaleale,Other,Hispanic/Latino,UnknownDuration,30 - 34,7/20/2010
+Hillsborough,Tampa,33827,Male,White,Hispanic/Latino,UnknownDuration,25 - 29,7/29/2010
+Hillsborough,Ruskin,33828,Male,Unknown,Unknown,UnknownDuration,25 - 29,8/30/2010
+Hillsborough,Ruskin,33829,Male,White,Non-Hispanic/Latino,UnknownDuration,25 - 29,9/10/2010
+Hillsborough,Tampa,33830,Male,Other,Hispanic/Latino,UnknownDuration,20 - 24,10/5/2010
+Hillsborough,Tampa,33831,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownDuration,10 - 14,10/11/2010
+Hillsborough,Tampa,33832,Male,Black/African American,Unknown,UnknownDuration,15 - 19,10/14/2010
+Hillsborough,Tampa,33833,Male,White,Unknown,UnknownDuration,30 - 34,11/24/2010
+Hillsborough,Tampa,33834,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,4/26/2010
+Hillsborough,Riverview,33835,Male,Black/African American,Non-Hispanic/Latino,LateLatent,15 - 19,4/1/2010
+Hillsborough,Tampa,33836,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,3/25/2010
+Hillsborough,Valrico,33837,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,3/24/2010
+Hillsborough,Tampa,33838,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,12/9/2010
+Hillsborough,Tampa,33839,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,11/1/2010
+Hillsborough,Tampa,33840,Male,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,2/18/2010
+Hillsborough,Tampa,33841,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,7/6/2010
+Hillsborough,Tampa,33842,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,10/13/2010
+Hillsborough,Tampa,33843,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,4/16/2010
+Hillsborough,Tampa,33844,Male,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,2/1/2010
+Hillsborough,Tampa,33845,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,2/15/2010
+Hillsborough,Tampa,33846,Male,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,4/20/2010
+Hillsborough,Tampa,33847,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,9/8/2010
+Hillsborough,Brandon,33848,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,1/29/2010
+Hillsborough,Tampa,33849,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,9/27/2010
+Hillsborough,Tampa,33850,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,7/1/2010
+Hillsborough,Tampa,33851,FeMaleale,White,Non-Hispanic/Latino,LateLatent,45 - 54,10/6/2010
+Hillsborough,Tampa,33852,Male,White,Non-Hispanic/Latino,LateLatent,25 - 29,7/22/2010
+Hillsborough,Tampa,33853,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,7/8/2010
+Hillsborough,Tampa,33854,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,1/21/2010
+Hillsborough,Tampa,33855,Male,White,Non-Hispanic/Latino,LateLatent,30 - 34,11/24/2010
+Hillsborough,Tampa,33856,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,4/19/2010
+Hillsborough,Tampa,33857,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,9/17/2010
+Hillsborough,Tampa,33858,Male,White,Hispanic/Latino,LateLatent,40 - 44,4/1/2010
+Hillsborough,Tampa,33859,Male,White,Hispanic/Latino,LateLatent,45 - 54,3/8/2010
+Hillsborough,Tampa,33860,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,7/1/2010
+Hillsborough,Tampa,33861,FeMaleale,Black/African American,Unknown,LateLatent,40 - 44,3/18/2010
+Hillsborough,Tampa,33862,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,10/13/2010
+Hillsborough,Tampa,33863,Male,Unknown,Non-Hispanic/Latino,LateLatent,40 - 44,5/10/2010
+Hillsborough,Tampa,33864,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,3/4/2010
+Hillsborough,Tampa,33865,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,7/7/2010
+Hillsborough,Lutz,33866,Male,White,Non-Hispanic/Latino,LateLatent,65 -120,3/24/2010
+Hillsborough,Tampa,33867,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,1/12/2010
+Hillsborough,Tampa,33868,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,1/13/2010
+Hillsborough,Tampa,33869,Male,White,Non-Hispanic/Latino,LateLatent,30 - 34,5/7/2010
+Hillsborough,Tampa,33870,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,5/13/2010
+Hillsborough,Tampa,33871,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,11/29/2010
+Hillsborough,Tampa,33872,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,3/2/2010
+Hillsborough,Tampa,33873,Male,White,Non-Hispanic/Latino,LateLatent,55 - 64,10/26/2010
+Hillsborough,Tampa,33874,Male,White,Non-Hispanic/Latino,LateLatent,25 - 29,2/16/2010
+Hillsborough,Tampa,33875,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,2/16/2010
+Hillsborough,Tampa,33876,Male,Unknown,Unknown,LateLatent,55 - 64,5/13/2010
+Hillsborough,Tampa,33877,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,9/7/2010
+Hillsborough,Tampa,33878,Male,White,Non-Hispanic/Latino,LateLatent,25 - 29,12/9/2010
+Hillsborough,Tampa,33879,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,15 - 19,7/1/2010
+Hillsborough,Tampa,33880,FeMaleale,White,Non-Hispanic/Latino,LateLatent,35 - 39,11/16/2010
+Hillsborough,Tampa,33881,Male,Other,Hispanic/Latino,LateLatent,30 - 34,4/7/2010
+Hillsborough,Plant City,33882,FeMaleale,White,Unknown,LateLatent,20 - 24,1/4/2010
+Hillsborough,Tampa,33883,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,1/8/2010
+Hillsborough,Tampa,33884,Male,Unknown,Hispanic/Latino,LateLatent,35 - 39,1/13/2010
+Hillsborough,Tampa,33885,Male,White,Non-Hispanic/Latino,LateLatent,35 - 39,1/13/2010
+Hillsborough,Tampa,33886,Male,Unknown,Unknown,LateLatent,25 - 29,1/28/2010
+Hillsborough,Tampa,33887,Male,Unknown,Unknown,LateLatent,55 - 64,2/8/2010
+Hillsborough,Tampa,33888,Male,Unknown,Unknown,LateLatent,40 - 44,2/10/2010
+Hillsborough,Tampa,33889,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,12/6/2010
+Hillsborough,Tampa,33890,Male,Unknown,Hispanic/Latino,LateLatent,15 - 19,2/24/2010
+Hillsborough,Tampa,33891,FeMaleale,Unknown,Unknown,LateLatent,40 - 44,2/25/2010
+Hillsborough,Tampa,33892,Male,Other,Hispanic/Latino,LateLatent,40 - 44,2/26/2010
+Hillsborough,Tampa,33893,Male,Unknown,Unknown,LateLatent,45 - 54,3/15/2010
+Hillsborough,Tampa,33894,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,3/24/2010
+Hillsborough,Tampa,33895,FeMaleale,White,Non-Hispanic/Latino,LateLatent,45 - 54,3/30/2010
+Hillsborough,Plant City,33896,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,4/30/2010
+Hillsborough,Tampa,33897,FeMaleale,Black/African American,Unknown,LateLatent,45 - 54,3/29/2010
+Hillsborough,Tampa,33898,Male,Other,Hispanic/Latino,LateLatent,35 - 39,4/15/2010
+Hillsborough,Tampa,33899,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,5/4/2010
+Hillsborough,Tampa,33900,Male,Unknown,Unknown,LateLatent,40 - 44,5/10/2010
+Hillsborough,Odessa,33901,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,5/11/2010
+Hillsborough,Tampa,33902,Male,Other,Unknown,LateLatent,55 - 64,5/13/2010
+Hillsborough,Tampa,33903,Male,Black/African American,Non-Hispanic/Latino,LateLatent,15 - 19,6/16/2010
+Hillsborough,Tampa,33904,Male,Unknown,Unknown,LateLatent,55 - 64,5/21/2010
+Hillsborough,Tampa,33905,Male,Black/African American,Unknown,LateLatent,40 - 44,5/28/2010
+Hillsborough,Tampa,33906,Male,Black/African American,Non-Hispanic/Latino,LateLatent,15 - 19,6/4/2010
+Hillsborough,Tampa,33907,Male,Black/African American,Non-Hispanic/Latino,LateLatent,15 - 19,6/17/2010
+Hillsborough,Thonotosassa,33908,Male,White,Non-Hispanic/Latino,LateLatent,30 - 34,6/16/2010
+Hillsborough,Tampa,33909,Male,White,Hispanic/Latino,LateLatent,20 - 24,6/18/2010
+Hillsborough,Ruskin,33910,FeMaleale,Unknown,Unknown,LateLatent,45 - 54,6/21/2010
+Hillsborough,Tampa,33911,FeMaleale,Other,Hispanic/Latino,LateLatent,20 - 24,7/9/2010
+Hillsborough,Tampa,33912,FeMaleale,Other,Hispanic/Latino,LateLatent,45 - 54,7/15/2010
+Hillsborough,Tampa,33913,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,7/22/2010
+Hillsborough,Tampa,33914,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,8/2/2010
+Hillsborough,Valrico,33915,Male,Black/African American,Unknown,LateLatent,30 - 34,8/3/2010
+Hillsborough,Brandon,33916,Male,Unknown,Unknown,LateLatent,45 - 54,8/4/2010
+Hillsborough,Tampa,33917,FeMaleale,Other,Unknown,LateLatent,45 - 54,8/4/2010
+Hillsborough,Tampa,33918,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,8/6/2010
+Hillsborough,Tampa,33919,Male,White,Hispanic/Latino,LateLatent,35 - 39,8/9/2010
+Hillsborough,Tampa,33920,FeMaleale,Black/African American,Unknown,LateLatent,15 - 19,9/15/2010
+Hillsborough,Tampa,33921,Male,Other,Unknown,LateLatent,20 - 24,8/11/2010
+Hillsborough,Tampa,33922,FeMaleale,Other,Unknown,LateLatent,30 - 34,7/23/2010
+Hillsborough,Tampa,33923,FeMaleale,Other,Unknown,LateLatent,35 - 39,8/18/2010
+Hillsborough,Tampa,33924,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,8/25/2010
+Hillsborough,Brandon,33925,Male,Other,Hispanic/Latino,LateLatent,30 - 34,9/10/2010
+Hillsborough,Tampa,33926,Male,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,9/13/2010
+Hillsborough,Tampa,33927,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,9/14/2010
+Hillsborough,Tampa,33928,Male,Unknown,Hispanic/Latino,LateLatent,35 - 39,9/16/2010
+Hillsborough,Tampa,33929,FeMaleale,Other,Hispanic/Latino,LateLatent,30 - 34,9/22/2010
+Hillsborough,Tampa,33930,Male,Unknown,Hispanic/Latino,LateLatent,35 - 39,9/30/2010
+Hillsborough,Tampa,33931,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,10/6/2010
+Hillsborough,Plant City,33932,Male,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,10/7/2010
+Hillsborough,Tampa,33933,FeMaleale,Unknown,Unknown,LateLatent,65 -120,10/18/2010
+Hillsborough,Tampa,33934,FeMaleale,Unknown,Unknown,LateLatent,40 - 44,10/20/2010
+Hillsborough,Tampa,33935,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,10/22/2010
+Hillsborough,Tampa,33936,Male,Black/African American,Unknown,LateLatent,35 - 39,10/25/2010
+Hillsborough,Tampa,33937,Male,White,Non-Hispanic/Latino,LateLatent,25 - 29,10/27/2010
+Hillsborough,Tampa,33938,Male,Other,Unknown,LateLatent,40 - 44,11/3/2010
+Hillsborough,Tampa,33939,Male,White,Non-Hispanic/Latino,LateLatent,55 - 64,11/8/2010
+Hillsborough,Tampa,33940,Male,Other,Hispanic/Latino,LateLatent,40 - 44,11/10/2010
+Hillsborough,Tampa,33941,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,11/12/2010
+Hillsborough,Tampa,33942,FeMaleale,White,Unknown,LateLatent,20 - 24,11/15/2010
+Hillsborough,Valrico,33943,FeMaleale,White,Unknown,LateLatent,20 - 24,11/17/2010
+Hillsborough,Tampa,33944,Male,Black/African American,Non-Hispanic/Latino,LateLatent,15 - 19,12/16/2010
+Hillsborough,Tampa,33945,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,12/6/2010
+Hillsborough,Tampa,33946,FeMaleale,White,Hispanic/Latino,LateLatent,65 -120,12/13/2010
+Hillsborough,Tampa,33947,Male,Black/African American,Non-Hispanic/Latino,LateLatent,65 -120,11/29/2010
+Hillsborough,Tampa,33948,Male,White,Non-Hispanic/Latino,LateLatent,25 - 29,12/30/2010
+Hillsborough,Apollo Beach,33949,Male,White,Hispanic/Latino,LateLatent,40 - 44,12/30/2010
+Hillsborough,Tampa,33950,FeMaleale,Black/African American,Non-Hispanic/Latino,Primary,30 - 34,4/28/2011
+Hillsborough,Tampa,33951,Male,White,Hispanic/Latino,Primary,25 - 29,12/22/2011
+Hillsborough,Riverview,33952,Male,Black/African American,Non-Hispanic/Latino,Primary,45 - 54,8/15/2011
+Hillsborough,Tampa,33953,Male,White,Non-Hispanic/Latino,Primary,45 - 54,11/2/2011
+Hillsborough,Tampa,33954,Male,White,Non-Hispanic/Latino,Primary,40 - 44,5/2/2011
+Hillsborough,Tampa,33955,Male,Black/African American,Non-Hispanic/Latino,Primary,45 - 54,1/25/2011
+Hillsborough,Tampa,33956,Male,White,Hispanic/Latino,Primary,45 - 54,4/21/2011
+Hillsborough,Tampa,33957,Male,Black/African American,Non-Hispanic/Latino,Primary,30 - 34,10/26/2011
+Hillsborough,Tampa,33958,Male,White,Hispanic/Latino,Primary,35 - 39,10/18/2011
+Hillsborough,Tampa,33959,Male,Black/African American,Non-Hispanic/Latino,Primary,30 - 34,6/14/2011
+Hillsborough,Riverview,33960,Male,Black/African American,Non-Hispanic/Latino,Primary,30 - 34,6/23/2011
+Hillsborough,Tampa,33961,Male,White,Non-Hispanic/Latino,Primary,40 - 44,6/13/2011
+Hillsborough,Tampa,33962,Male,White,Non-Hispanic/Latino,Primary,45 - 54,11/16/2011
+Hillsborough,Tampa,33963,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,12/28/2011
+Hillsborough,Brandon,33964,Male,White,Non-Hispanic/Latino,Primary,20 - 24,2/11/2011
+Hillsborough,Tampa,33965,FeMaleale,Black/African American,Unknown,Primary,20 - 24,4/28/2011
+Hillsborough,Tampa,33966,FeMaleale,Asian,Unknown,Primary,20 - 24,6/9/2011
+Hillsborough,Tampa,33967,Male,White,Hispanic/Latino,Primary,35 - 39,7/13/2011
+Hillsborough,Tampa,33968,Male,Black/African American,Non-Hispanic/Latino,Primary,30 - 34,11/2/2011
+Hillsborough,Tampa,33969,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,9/8/2011
+Hillsborough,Tampa,33970,FeMaleale,White,Unknown,Primary,30 - 34,10/13/2011
+Hillsborough,Tampa,33971,Male,White,Hispanic/Latino,Primary,30 - 34,10/13/2011
+Hillsborough,Tampa,33972,Male,White,Unknown,Primary,25 - 29,10/18/2011
+Hillsborough,Tampa,33973,FeMaleale,Black/African American,Non-Hispanic/Latino,Primary,15 - 19,10/19/2011
+Hillsborough,Brandon,33974,Male,White,Hispanic/Latino,Primary,20 - 24,11/4/2011
+Hillsborough,Brandon,33975,Male,White,Non-Hispanic/Latino,Primary,55 - 64,12/13/2011
+Hillsborough,Brandon,33976,Male,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,6/22/2011
+Hillsborough,Lutz,33977,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,7/19/2011
+Hillsborough,Tampa,33978,Male,White,Non-Hispanic/Latino,Secondary,30 - 34,4/21/2011
+Hillsborough,Tampa,33979,FeMaleale,White,Unknown,Secondary,45 - 54,12/7/2011
+Hillsborough,Tampa,33980,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,4/27/2011
+Hillsborough,Tampa,33981,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,11/8/2011
+Hillsborough,Tampa,33982,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,3/31/2011
+Hillsborough,Tampa,33983,Male,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,5/10/2011
+Hillsborough,Ruskin,33984,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,9/27/2011
+Hillsborough,Tampa,33985,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,4/26/2011
+Hillsborough,Tampa,33986,Male,White,Non-Hispanic/Latino,Secondary,30 - 34,7/21/2011
+Hillsborough,Tampa,33987,Male,Unknown,Non-Hispanic/Latino,Secondary,25 - 29,6/10/2011
+Hillsborough,Tampa,33988,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,8/29/2011
+Hillsborough,Tampa,33989,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,4/25/2011
+Hillsborough,Tampa,33990,Male,White,Hispanic/Latino,Secondary,40 - 44,9/8/2011
+Hillsborough,Tampa,33991,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,12/6/2011
+Hillsborough,Tampa,33992,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,11/18/2011
+Hillsborough,Tampa,33993,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,5/24/2011
+Hillsborough,Tampa,33994,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,55 - 64,11/21/2011
+Hillsborough,Tampa,33995,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,12/27/2011
+Hillsborough,Tampa,33996,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,10/26/2011
+Hillsborough,Tampa,33997,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,1/3/2011
+Hillsborough,Brandon,33998,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,9/21/2011
+Hillsborough,Tampa,33999,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,10/12/2011
+Hillsborough,Tampa,34000,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,5/23/2011
+Hillsborough,Tampa,34001,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,2/24/2011
+Hillsborough,Tampa,34002,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,2/10/2011
+Hillsborough,Tampa,34003,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,1/31/2011
+Hillsborough,Riverview,34004,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,12/7/2011
+Hillsborough,Tampa,34005,Male,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,9/8/2011
+Hillsborough,Tampa,34006,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,3/17/2011
+Hillsborough,Tampa,34007,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,9/1/2011
+Hillsborough,Tampa,34008,Male,White,Hispanic/Latino,Secondary,45 - 54,2/28/2011
+Hillsborough,Valrico,34009,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,9/21/2011
+Hillsborough,Brandon,34010,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,11/16/2011
+Hillsborough,Tampa,34011,Male,Unknown,Unknown,Secondary,40 - 44,11/21/2011
+Hillsborough,Tampa,34012,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,4/11/2011
+Hillsborough,Tampa,34013,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,9/8/2011
+Hillsborough,Tampa,34014,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,3/8/2011
+Hillsborough,Lutz,34015,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,7/21/2011
+Hillsborough,Tampa,34016,Male,White,Hispanic/Latino,Secondary,20 - 24,6/27/2011
+Hillsborough,Tampa,34017,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,6/6/2011
+Hillsborough,Tampa,34018,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,6/23/2011
+Hillsborough,Tampa,34019,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,7/27/2011
+Hillsborough,Tampa,34020,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,5/10/2011
+Hillsborough,Tampa,34021,Male,Other,Unknown,Secondary,35 - 39,1/4/2011
+Hillsborough,Brandon,34022,FeMaleale,White,Non-Hispanic/Latino,Secondary,20 - 24,1/3/2011
+Hillsborough,Tampa,34023,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,1/3/2011
+Hillsborough,Tampa,34024,Male,Other,Hispanic/Latino,Secondary,35 - 39,1/20/2011
+Hillsborough,Tampa,34025,FeMaleale,White,Non-Hispanic/Latino,Secondary,55 - 64,2/8/2011
+Hillsborough,Lutz,34026,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,2/9/2011
+Hillsborough,Tampa,34027,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,2/15/2011
+Hillsborough,Valrico,34028,Male,White,Hispanic/Latino,Secondary,45 - 54,2/18/2011
+Hillsborough,Tampa,34029,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,3/15/2011
+Hillsborough,Tampa,34030,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,3/16/2011
+Hillsborough,Tampa,34031,Male,White,Non-Hispanic/Latino,Secondary,55 - 64,3/28/2011
+Hillsborough,Seffner,34032,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,4/13/2011
+Hillsborough,Saint Petersburg,34033,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,4/14/2011
+Hillsborough,Tampa,34034,Male,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,5/11/2011
+Hillsborough,Tampa,34035,Male,Unknown,Unknown,Secondary,35 - 39,5/23/2011
+Hillsborough,Tampa,34036,FeMaleale,Black/African American,Unknown,Secondary,20 - 24,6/2/2011
+Hillsborough,Tampa,34037,Male,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,6/2/2011
+Hillsborough,Tampa,34038,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,6/13/2011
+Hillsborough,Tampa,34039,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,6/27/2011
+Hillsborough,Tampa,34040,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,6/29/2011
+Hillsborough,Tampa,34041,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,6/29/2011
+Hillsborough,Tampa,34042,Male,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,7/7/2011
+Hillsborough,Lutz,34043,FeMaleale,White,Unknown,Secondary,55 - 64,7/8/2011
+Hillsborough,Ruskin,34044,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,7/11/2011
+Hillsborough,Tampa,34045,FeMaleale,White,Hispanic/Latino,Secondary,55 - 64,7/13/2011
+Hillsborough,Tampa,34046,FeMaleale,White,Hispanic/Latino,Secondary,45 - 54,7/19/2011
+Hillsborough,Tampa,34047,Male,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,7/20/2011
+Hillsborough,Tampa,34048,Male,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,7/20/2011
+Hillsborough,Tampa,34049,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,7/27/2011
+Hillsborough,Tampa,34050,Male,Unknown,Unknown,Secondary,55 - 64,8/8/2011
+Hillsborough,Tampa,34051,Male,White,Unknown,Secondary,20 - 24,8/10/2011
+Hillsborough,Thonotosassa,34052,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,8/15/2011
+Hillsborough,Tampa,34053,Male,Asian,Unknown,Secondary,30 - 34,8/31/2011
+Hillsborough,Tampa,34054,Male,White,Unknown,Secondary,45 - 54,9/8/2011
+Hillsborough,Tampa,34055,Male,White,Unknown,Secondary,15 - 19,9/21/2011
+Hillsborough,Tampa,34056,Male,White,Unknown,Secondary,55 - 64,9/28/2011
+Hillsborough,Plant City,34057,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,10/7/2011
+Hillsborough,Tampa,34058,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,10/14/2011
+Hillsborough,Tampa,34059,Male,White,Unknown,Secondary,35 - 39,10/19/2011
+Hillsborough,Tampa,34060,Male,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,10/20/2011
+Hillsborough,Tampa,34061,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,10/26/2011
+Hillsborough,Tampa,34062,Male,Asian,Unknown,Secondary,35 - 39,10/26/2011
+Hillsborough,Tampa,34063,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,10/27/2011
+Hillsborough,Tampa,34064,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,10/28/2011
+Hillsborough,Tampa,34065,Male,Unknown,Non-Hispanic/Latino,Secondary,20 - 24,11/3/2011
+Hillsborough,Tampa,34066,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,11/15/2011
+Hillsborough,Tampa,34067,Male,Unknown,Unknown,Secondary,25 - 29,11/21/2011
+Hillsborough,Tampa,34068,FeMaleale,White,Unknown,Secondary,35 - 39,11/30/2011
+Hillsborough,Tampa,34069,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,12/6/2011
+Hillsborough,Tampa,34070,Male,Other,Hispanic/Latino,Secondary,40 - 44,12/7/2011
+Hillsborough,Tampa,34071,Male,White,Unknown,Secondary,45 - 54,12/20/2011
+Hillsborough,Tampa,34072,Male,Black/African American,Unknown,Secondary,20 - 24,12/29/2011
+Hillsborough,Tampa,34073,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,40 - 44,8/26/2011
+Hillsborough,Tampa,34074,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,12/5/2011
+Hillsborough,Tampa,34075,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,1/13/2011
+Hillsborough,Tampa,34076,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,11/9/2011
+Hillsborough,Tampa,34077,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,9/6/2011
+Hillsborough,Tampa,34078,Male,White,Hispanic/Latino,EarlyLatent,35 - 39,1/24/2011
+Hillsborough,Tampa,34079,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,11/30/2011
+Hillsborough,Tampa,34080,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,9/6/2011
+Hillsborough,Tampa,34081,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,2/10/2011
+Hillsborough,Tampa,34082,Male,White,Unknown,EarlyLatent,35 - 39,11/16/2011
+Hillsborough,Tampa,34083,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/12/2011
+Hillsborough,Brandon,34084,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,8/15/2011
+Hillsborough,Tampa,34085,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,12/29/2011
+Hillsborough,Tampa,34086,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,1/28/2011
+Hillsborough,Tampa,34087,Male,White,Non-Hispanic/Latino,EarlyLatent,55 - 64,6/14/2011
+Hillsborough,Tampa,34088,Male,White,Hispanic/Latino,EarlyLatent,25 - 29,8/19/2011
+Hillsborough,Tampa,34089,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,6/29/2011
+Hillsborough,Tampa,34090,Male,White,Unknown,EarlyLatent,35 - 39,1/18/2011
+Hillsborough,Tampa,34091,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/19/2011
+Hillsborough,Tampa,34092,FeMaleale,Black/African American,Unknown,EarlyLatent,20 - 24,9/26/2011
+Hillsborough,Tampa,34093,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,4/8/2011
+Hillsborough,Tampa,34094,Male,White,Unknown,EarlyLatent,40 - 44,9/29/2011
+Hillsborough,Tampa,34095,Male,White,Unknown,EarlyLatent,40 - 44,11/21/2011
+Hillsborough,Tampa,34096,Male,White,Hispanic/Latino,EarlyLatent,25 - 29,11/1/2011
+Hillsborough,Brandon,34097,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,6/7/2011
+Hillsborough,Tampa,34098,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,12/12/2011
+Hillsborough,Tampa,34099,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,8/9/2011
+Hillsborough,Tampa,34100,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,8/16/2011
+Hillsborough,Tampa,34101,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,55 - 64,2/10/2011
+Hillsborough,Tampa,34102,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,40 - 44,9/28/2011
+Hillsborough,Tampa,34103,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,6/13/2011
+Hillsborough,Brandon,34104,FeMaleale,Other,Hispanic/Latino,EarlyLatent,20 - 24,1/31/2011
+Hillsborough,Tampa,34105,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,9/30/2011
+Hillsborough,Tampa,34106,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,55 - 64,1/4/2011
+Hillsborough,Tampa,34107,Male,Unknown,Unknown,EarlyLatent,55 - 64,3/4/2011
+Hillsborough,Tampa,34108,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,7/11/2011
+Hillsborough,Tampa,34109,Male,White,Non-Hispanic/Latino,EarlyLatent,30 - 34,3/14/2011
+Hillsborough,Tampa,34110,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,55 - 64,1/4/2011
+Hillsborough,Tampa,34111,FeMaleale,Black/African American,Hispanic/Latino,EarlyLatent,15 - 19,5/16/2011
+Hillsborough,Lutz,34112,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,4/18/2011
+Hillsborough,Tampa,34113,Male,White,Non-Hispanic/Latino,EarlyLatent,30 - 34,5/11/2011
+Hillsborough,Tampa,34114,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,3/15/2011
+Hillsborough,Lutz,34115,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,12/6/2011
+Hillsborough,Riverview,34116,Male,White,Hispanic/Latino,EarlyLatent,25 - 29,7/6/2011
+Hillsborough,Tampa,34117,Male,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,4/5/2011
+Hillsborough,Riverview,34118,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,9/8/2011
+Hillsborough,Tampa,34119,Male,Other,Hispanic/Latino,EarlyLatent,25 - 29,12/22/2011
+Hillsborough,Tampa,34120,Male,White,Unknown,EarlyLatent,20 - 24,10/14/2011
+Hillsborough,Ruskin,34121,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,11/2/2011
+Hillsborough,Tampa,34122,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/26/2011
+Hillsborough,Tampa,34123,Male,White,Hispanic/Latino,EarlyLatent,30 - 34,8/15/2011
+Hillsborough,Tampa,34124,Male,Black/African American,Hispanic/Latino,EarlyLatent,25 - 29,8/10/2011
+Hillsborough,Tampa,34125,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,1/20/2011
+Hillsborough,Tampa,34126,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,1/10/2011
+Hillsborough,Tampa,34127,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,1/14/2011
+Hillsborough,Tampa,34128,Male,White,Hispanic/Latino,EarlyLatent,45 - 54,2/14/2011
+Hillsborough,Tampa,34129,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,2/14/2011
+Hillsborough,Tampa,34130,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,3/7/2011
+Hillsborough,Tampa,34131,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,3/9/2011
+Hillsborough,Tampa,34132,Male,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,3/14/2011
+Hillsborough,Tampa,34133,Male,Unknown,Unknown,EarlyLatent,40 - 44,4/4/2011
+Hillsborough,Tampa,34134,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,12/22/2011
+Hillsborough,Tampa,34135,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,5/5/2011
+Hillsborough,Tampa,34136,Male,White,Hispanic/Latino,EarlyLatent,55 - 64,5/9/2011
+Hillsborough,Tampa,34137,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/16/2011
+Hillsborough,Thonotosassa,34138,FeMaleale,Unknown,Unknown,EarlyLatent,35 - 39,6/13/2011
+Hillsborough,Tampa,34139,Male,White,Non-Hispanic/Latino,EarlyLatent,55 - 64,5/24/2011
+Hillsborough,Tampa,34140,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/31/2011
+Hillsborough,Tampa,34141,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/31/2011
+Hillsborough,Tampa,34142,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,6/8/2011
+Hillsborough,Tampa,34143,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,9/14/2011
+Hillsborough,Tampa,34144,Male,Black/African American,Unknown,EarlyLatent,20 - 24,6/29/2011
+Hillsborough,Tampa,34145,FeMaleale,Other,Unknown,EarlyLatent,45 - 54,7/7/2011
+Hillsborough,Tampa,34146,Male,Other,Hispanic/Latino,EarlyLatent,25 - 29,8/2/2011
+Hillsborough,Tampa,34147,Male,White,Hispanic/Latino,EarlyLatent,20 - 24,8/4/2011
+Hillsborough,Tampa,34148,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,9/8/2011
+Hillsborough,Tampa,34149,FeMaleale,Black/African American,Unknown,EarlyLatent,20 - 24,9/14/2011
+Hillsborough,Tampa,34150,Male,Black/African American,Unknown,EarlyLatent,35 - 39,9/14/2011
+Hillsborough,Tampa,34151,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,9/15/2011
+Hillsborough,Tampa,34152,Male,White,Unknown,EarlyLatent,45 - 54,9/21/2011
+Hillsborough,Tampa,34153,FeMaleale,Unknown,Unknown,EarlyLatent,15 - 19,10/6/2011
+Hillsborough,Tampa,34154,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,10/24/2011
+Hillsborough,Tampa,34155,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,11/2/2011
+Hillsborough,Riverview,34156,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,40 - 44,11/3/2011
+Hillsborough,Tampa,34157,FeMaleale,Black/African American,Unknown,EarlyLatent,15 - 19,11/8/2011
+Hillsborough,Tampa,34158,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,11/14/2011
+Hillsborough,Tampa,34159,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,11/23/2011
+Hillsborough,Tampa,34160,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,11/28/2011
+Hillsborough,Tampa,34161,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,12/8/2011
+Hillsborough,Tampa,34162,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,12/12/2011
+Hillsborough,Tampa,34163,Male,White,Unknown,EarlyLatent,55 - 64,12/13/2011
+Hillsborough,Tampa,34164,Male,White,Unknown,UnknownDuration,30 - 34,4/5/2011
+Hillsborough,Tampa,34165,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownDuration,30 - 34,1/18/2011
+Hillsborough,Tampa,34166,FeMaleale,Black/African American,Hispanic/Latino,UnknownDuration,20 - 24,9/8/2011
+Hillsborough,Tampa,34167,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownDuration,25 - 29,7/14/2011
+Hillsborough,Tampa,34168,Male,Black/African American,Non-Hispanic/Latino,UnknownDuration,20 - 24,1/13/2011
+Hillsborough,Plant City,34169,Male,Black/African American,Non-Hispanic/Latino,UnknownDuration,25 - 29,10/19/2011
+Hillsborough,Tampa,34170,FeMaleale,White,Non-Hispanic/Latino,UnknownDuration,20 - 24,4/1/2011
+Hillsborough,Tampa,34171,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownDuration,20 - 24,4/7/2011
+Hillsborough,Brandon,34172,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownDuration,20 - 24,7/11/2011
+Hillsborough,Tampa,34173,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownDuration,20 - 24,10/26/2011
+Hillsborough,Tampa,34174,Male,Black/African American,Non-Hispanic/Latino,UnknownDuration,25 - 29,3/9/2011
+Hillsborough,Tampa,34175,Male,White,Non-Hispanic/Latino,UnknownDuration,25 - 29,1/5/2011
+Hillsborough,Tampa,34176,FeMaleale,Black/African American,Unknown,UnknownDuration,25 - 29,1/13/2011
+Hillsborough,Tampa,34177,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownDuration,15 - 19,1/25/2011
+Hillsborough,Tampa,34178,Male,White,Unknown,UnknownDuration,25 - 29,1/26/2011
+Hillsborough,Tampa,34179,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownDuration,20 - 24,3/21/2011
+Hillsborough,Tampa,34180,Male,White,Non-Hispanic/Latino,UnknownDuration,20 - 24,4/19/2011
+Hillsborough,Ruskin,34181,Male,Other,Hispanic/Latino,UnknownDuration,25 - 29,4/6/2011
+Hillsborough,Tampa,34182,Male,White,Non-Hispanic/Latino,UnknownDuration,25 - 29,5/19/2011
+Hillsborough,Tampa,34183,Male,Black/African American,Non-Hispanic/Latino,UnknownDuration,15 - 19,4/28/2011
+Hillsborough,Tampa,34184,Male,White,Non-Hispanic/Latino,UnknownDuration,20 - 24,6/30/2011
+Hillsborough,Plant City,34185,Male,Unknown,Unknown,UnknownDuration,25 - 29,8/26/2011
+Hillsborough,Tampa,34186,Male,Black/African American,Unknown,UnknownDuration,20 - 24,9/21/2011
+Hillsborough,Tampa,34187,Male,Black/African American,Unknown,UnknownDuration,30 - 34,10/26/2011
+Hillsborough,Tampa,34188,FeMaleale,White,Non-Hispanic/Latino,UnknownDuration,20 - 24,10/27/2011
+Hillsborough,Tampa,34189,Male,Black/African American,Unknown,UnknownDuration,20 - 24,11/16/2011
+Hillsborough,Tampa,34190,Male,Black/African American,Unknown,UnknownDuration,25 - 29,11/28/2011
+Hillsborough,Tampa,34191,Male,White,Hispanic/Latino,UnknownDuration,20 - 24,12/27/2011
+Hillsborough,Tampa,34192,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,9/23/2011
+Hillsborough,Tampa,34193,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,4/28/2011
+Hillsborough,Tampa,34194,Male,White,Non-Hispanic/Latino,LateLatent,35 - 39,4/7/2011
+Hillsborough,Tampa,34195,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,10/5/2011
+Hillsborough,Tampa,34196,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,5/27/2011
+Hillsborough,Tampa,34197,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,2/7/2011
+Hillsborough,Tampa,34198,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,5/11/2011
+Hillsborough,Tampa,34199,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,4/20/2011
+Hillsborough,Tampa,34200,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,10/26/2011
+Hillsborough,Tampa,34201,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,11/29/2011
+Hillsborough,Temple Terrace,34202,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,4/28/2011
+Hillsborough,Tampa,34203,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,4/14/2011
+Hillsborough,Tampa,34204,Male,White,Hispanic/Latino,LateLatent,35 - 39,11/23/2011
+Hillsborough,Tampa,34205,Male,Black/African American,Unknown,LateLatent,25 - 29,4/6/2011
+Hillsborough,Tampa,34206,Male,Black/African American,Non-Hispanic/Latino,LateLatent,65 -120,7/21/2011
+Hillsborough,Tampa,34207,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,12/6/2011
+Hillsborough,Tampa,34208,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,8/31/2011
+Hillsborough,Plant City,34209,Male,White,Non-Hispanic/Latino,LateLatent,30 - 34,5/26/2011
+Hillsborough,Tampa,34210,Male,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,3/8/2011
+Hillsborough,Tampa,34211,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,4/25/2011
+Hillsborough,Tampa,34212,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,7/28/2011
+Hillsborough,Tampa,34213,Male,White,Non-Hispanic/Latino,LateLatent,35 - 39,8/30/2011
+Hillsborough,Tampa,34214,Male,Black/African American,Unknown,LateLatent,45 - 54,6/22/2011
+Hillsborough,Tampa,34215,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,5/11/2011
+Hillsborough,Tampa,34216,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,10/4/2011
+Hillsborough,Tampa,34217,Male,Other,Hispanic/Latino,LateLatent,30 - 34,12/30/2011
+Hillsborough,Tampa,34218,Male,White,Non-Hispanic/Latino,LateLatent,35 - 39,4/11/2011
+Hillsborough,Tampa,34219,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,8/22/2011
+Hillsborough,Tampa,34220,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,3/15/2011
+Hillsborough,Tampa,34221,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,6/30/2011
+Hillsborough,Tampa,34222,Male,White,Hispanic/Latino,LateLatent,20 - 24,9/15/2011
+Hillsborough,Tampa,34223,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,2/21/2011
+Hillsborough,Tampa,34224,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,2/18/2011
+Hillsborough,Tampa,34225,Male,Unknown,Unknown,LateLatent,45 - 54,4/25/2011
+Hillsborough,Tampa,34226,Male,White,Hispanic/Latino,LateLatent,40 - 44,3/2/2011
+Hillsborough,Tampa,34227,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,5/6/2011
+Hillsborough,Tampa,34228,Male,White,Hispanic/Latino,LateLatent,20 - 24,1/19/2011
+Hillsborough,Tampa,34229,Male,Other,Unknown,LateLatent,35 - 39,2/1/2011
+Hillsborough,Tampa,34230,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,15 - 19,7/1/2011
+Hillsborough,Tampa,34231,Male,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,10/10/2011
+Hillsborough,Tampa,34232,Male,White,Hispanic/Latino,LateLatent,30 - 34,1/11/2011
+Hillsborough,Tampa,34233,Male,White,Hispanic/Latino,LateLatent,45 - 54,1/18/2011
+Hillsborough,Tampa,34234,FeMaleale,White,Unknown,LateLatent,25 - 29,1/26/2011
+Hillsborough,Wimauma,34235,FeMaleale,White,Hispanic/Latino,LateLatent,25 - 29,1/26/2011
+Hillsborough,Riverview,34236,FeMaleale,Other,Hispanic/Latino,LateLatent,20 - 24,2/8/2011
+Hillsborough,Tampa,34237,Male,Unknown,Unknown,LateLatent,40 - 44,2/9/2011
+Hillsborough,Tampa,34238,FeMaleale,Unknown,Unknown,LateLatent,30 - 34,2/10/2011
+Hillsborough,Tampa,34239,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,2/11/2011
+Hillsborough,Tampa,34240,Male,Unknown,Unknown,LateLatent,55 - 64,2/16/2011
+Hillsborough,Tampa,34241,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,3/2/2011
+Hillsborough,Tampa,34242,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,2/18/2011
+Hillsborough,Tampa,34243,Male,White,Non-Hispanic/Latino,LateLatent,35 - 39,2/21/2011
+Hillsborough,Tampa,34244,FeMaleale,Other,Hispanic/Latino,LateLatent,35 - 39,3/3/2011
+Hillsborough,Tampa,34245,Male,White,Non-Hispanic/Latino,LateLatent,65 -120,3/3/2011
+Hillsborough,Tampa,34246,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,3/3/2011
+Hillsborough,Tampa,34247,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,3/22/2011
+Hillsborough,Tampa,34248,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,3/14/2011
+Hillsborough,Tampa,34249,Male,Unknown,Hispanic/Latino,LateLatent,45 - 54,3/17/2011
+Hillsborough,Tampa,34250,Male,White,Hispanic/Latino,LateLatent,40 - 44,3/17/2011
+Hillsborough,Tampa,34251,Male,White,Unknown,LateLatent,30 - 34,3/28/2011
+Hillsborough,Tampa,34252,Male,Unknown,Unknown,LateLatent,65 -120,4/11/2011
+Hillsborough,Tampa,34253,FeMaleale,Unknown,Hispanic/Latino,LateLatent,25 - 29,4/12/2011
+Hillsborough,Tampa,34254,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,4/12/2011
+Hillsborough,Tampa,34255,FeMaleale,White,Hispanic/Latino,LateLatent,55 - 64,4/19/2011
+Hillsborough,Lutz,34256,FeMaleale,Unknown,Unknown,LateLatent,30 - 34,4/20/2011
+Hillsborough,Tampa,34257,Male,White,Hispanic/Latino,LateLatent,45 - 54,4/22/2011
+Hillsborough,Tampa,34258,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,5/4/2011
+Hillsborough,Tampa,34259,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,5/6/2011
+Hillsborough,Tampa,34260,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,5/9/2011
+Hillsborough,Tampa,34261,Male,Unknown,Unknown,LateLatent,40 - 44,5/13/2011
+Hillsborough,Tampa,34262,Male,Black/African American,Unknown,LateLatent,20 - 24,11/14/2011
+Hillsborough,Brandon,34263,Male,White,Hispanic/Latino,LateLatent,20 - 24,5/27/2011
+Hillsborough,Plant City,34264,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,6/8/2011
+Hillsborough,Tampa,34265,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,6/9/2011
+Hillsborough,Plant City,34266,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,6/21/2011
+Hillsborough,Tampa,34267,Male,Other,Unknown,LateLatent,40 - 44,6/22/2011
+Hillsborough,Tampa,34268,Male,Unknown,Unknown,LateLatent,35 - 39,6/28/2011
+Hillsborough,Tampa,34269,FeMaleale,Unknown,Unknown,LateLatent,40 - 44,7/15/2011
+Hillsborough,Valrico,34270,Male,White,Non-Hispanic/Latino,LateLatent,35 - 39,8/3/2011
+Hillsborough,Tampa,34271,FeMaleale,Other,Hispanic/Latino,LateLatent,15 - 19,8/12/2011
+Hillsborough,Tampa,34272,FeMaleale,White,Hispanic/Latino,LateLatent,55 - 64,8/16/2011
+Hillsborough,Plant City,34273,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,9/8/2011
+Hillsborough,Tampa,34274,Male,White,Non-Hispanic/Latino,LateLatent,35 - 39,9/9/2011
+Hillsborough,Valrico,34275,Male,White,Unknown,LateLatent,55 - 64,9/20/2011
+Hillsborough,Tampa,34276,Male,White,Non-Hispanic/Latino,LateLatent,25 - 29,9/21/2011
+Hillsborough,Tampa,34277,Male,Native Hawaiian/Pacific Islander,Non-Hispanic/Latino,LateLatent,45 - 54,9/22/2011
+Hillsborough,Tampa,34278,FeMaleale,White,Hispanic/Latino,LateLatent,65 -120,9/30/2011
+Hillsborough,Tampa,34279,Male,White,Unknown,LateLatent,65 -120,10/5/2011
+Hillsborough,Tampa,34280,Male,Black/African American,Non-Hispanic/Latino,LateLatent,15 - 19,10/21/2011
+Hillsborough,Tampa,34281,FeMaleale,Unknown,Unknown,LateLatent,30 - 34,10/26/2011
+Hillsborough,Temple Terrace,34282,FeMaleale,Unknown,Unknown,LateLatent,35 - 39,10/27/2011
+Hillsborough,Tampa,34283,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,11/2/2011
+Hillsborough,Tampa,34284,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,11/9/2011
+Hillsborough,Tampa,34285,FeMaleale,Black/African American,Unknown,LateLatent,45 - 54,11/10/2011
+Hillsborough,Tampa,34286,Male,Unknown,Unknown,LateLatent,20 - 24,11/14/2011
+Hillsborough,Tampa,34287,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,11/15/2011
+Hillsborough,Tampa,34288,Male,White,Hispanic/Latino,LateLatent,45 - 54,12/2/2011
+Hillsborough,Tampa,34289,Male,Unknown,Unknown,LateLatent,25 - 29,12/5/2011
+Hillsborough,Tampa,34290,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,12/6/2011
+Hillsborough,Dover,34291,FeMaleale,Unknown,Unknown,LateLatent,45 - 54,12/8/2011
+Hillsborough,Tampa,34292,Male,Other,Hispanic/Latino,LateLatent,55 - 64,12/16/2011
+Hillsborough,Tampa,34293,Male,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,12/21/2011
+Hillsborough,Tampa,34294,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,12/21/2011
+Hillsborough,Tampa,34295,Male,Other,Hispanic/Latino,LateLatent,30 - 34,12/29/2011
+Hillsborough,Ruskin,34296,Male,White,Unknown,LateLatent,65 -120,12/29/2011
+Hillsborough,Tampa,34297,Male,Unknown,Unknown,LateLatent,25 - 29,12/30/2011
+Hillsborough,Tampa,34298,Male,Black/African American,Non-Hispanic/Latino,Primary,45 - 54,9/27/2012
+Hillsborough,Lutz,34299,Male,Black/African American,Non-Hispanic/Latino,Primary,30 - 34,12/3/2012
+Hillsborough,Tampa,34300,Male,White,Non-Hispanic/Latino,Primary,40 - 44,3/29/2012
+Hillsborough,Tampa,34301,Male,Other,Hispanic/Latino,Primary,35 - 39,6/15/2012
+Hillsborough,Tampa,34302,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,10/2/2012
+Hillsborough,Tampa,34303,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,2/29/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,Primary,30 - 34,3/21/2012
+Hillsborough,Tampa,33602,Male,White,Hispanic/Latino,Primary,25 - 29,12/5/2012
+Hillsborough,Tampa,33611,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,2/15/2012
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,Primary,40 - 44,6/21/2012
+Hillsborough,Riverview,33579,Male,White,Non-Hispanic/Latino,Primary,25 - 29,12/3/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,Primary,30 - 34,5/29/2012
+Hillsborough,Tampa,33617,Male,White,Non-Hispanic/Latino,Primary,20 - 24,10/5/2012
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Primary,15 - 19,5/21/2012
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,Primary,15 - 19,4/4/2012
+Hillsborough,Riverview,33578,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,6/19/2012
+Hillsborough,Tampa,33602,Male,Other,Hispanic/Latino,Primary,15 - 19,12/13/2012
+Hillsborough,Brandon,33511,Male,White,Hispanic/Latino,Primary,25 - 29,12/17/2012
+Hillsborough,Ruskin,33570,Male,White,Non-Hispanic/Latino,Primary,30 - 34,1/3/2012
+Hillsborough,Tampa,33606,Male,White,Hispanic/Latino,Primary,40 - 44,11/13/2012
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,1/25/2012
+Hillsborough,Lithia,33547,Male,White,Non-Hispanic/Latino,Primary,25 - 29,1/27/2012
+Hillsborough,Tampa,33624,Male,White,Non-Hispanic/Latino,Primary,25 - 29,2/2/2012
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,Primary,40 - 44,4/10/2012
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,Primary,30 - 34,4/24/2012
+Hillsborough,Tampa,33604,Male,White,Hispanic/Latino,Primary,25 - 29,4/26/2012
+Hillsborough,Tampa,33615,Male,White,Hispanic/Latino,Primary,20 - 24,5/9/2012
+Hillsborough,Tampa,33603,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,5/31/2012
+Hillsborough,Tampa,33613,Male,White,Non-Hispanic/Latino,Primary,35 - 39,6/12/2012
+Hillsborough,Brandon,33510,Male,White,Hispanic/Latino,Primary,30 - 34,6/15/2012
+Hillsborough,Tampa,33625,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,6/20/2012
+Hillsborough,Tampa,33613,Male,Other,Hispanic/Latino,Primary,20 - 24,7/11/2012
+Hillsborough,Tampa,33611,Male,White,Hispanic/Latino,Primary,20 - 24,7/19/2012
+Hillsborough,Tampa,33610,Male,White,Hispanic/Latino,Primary,45 - 54,10/17/2012
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,11/5/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Unknown,Primary,25 - 29,11/6/2012
+Hillsborough,Tampa,33618,Male,White,Unknown,Primary,20 - 24,12/3/2012
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,Primary,20 - 24,12/13/2012
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,1/27/2012
+Hillsborough,Valrico,33594,Male,White,Hispanic/Latino,Secondary,45 - 54,5/21/2012
+Hillsborough,Seffner,33584,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,8/20/2012
+Hillsborough,Tampa,33771,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,12/20/2012
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,2/13/2012
+Hillsborough,Tampa,33613,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,10/29/2012
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,2/14/2012
+Hillsborough,Tampa,33614,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,1/11/2012
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,9/14/2012
+Hillsborough,Tampa,33637,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,5/17/2012
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,4/10/2012
+Hillsborough,Brandon,33510,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,3/27/2012
+Hillsborough,Tampa,33618,Male,White,Hispanic/Latino,Secondary,40 - 44,4/5/2012
+Hillsborough,Tampa,33603,Male,Black/African American,Unknown,Secondary,30 - 34,10/24/2012
+Hillsborough,Tampa,33602,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,7/12/2012
+Hillsborough,Wimauma,33598,Male,Black/African American,Hispanic/Latino,Secondary,20 - 24,5/17/2012
+Hillsborough,Tampa,33634,Male,White,Non-Hispanic/Latino,Secondary,30 - 34,8/1/2012
+Hillsborough,Tampa,33647,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,5/16/2012
+Hillsborough,Lutz,33559,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,7/13/2012
+Hillsborough,Tampa,33637,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,12/11/2012
+Hillsborough,Tampa,33614,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,11/14/2012
+Hillsborough,Tampa,33618,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,5/30/2012
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,8/21/2012
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,2/23/2012
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,5/15/2012
+Hillsborough,Tampa,33614,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,3/8/2012
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,5/29/2012
+Hillsborough,Tampa,33604,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,8/22/2012
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,1/17/2012
+Hillsborough,Brandon,33511,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,4/27/2012
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,12/19/2012
+Hillsborough,Tampa,33602,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,9/17/2012
+Hillsborough,Tampa,33614,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,7/11/2012
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,9/28/2012
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,1/11/2012
+Hillsborough,Tampa,33647,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,6/15/2012
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,5/15/2012
+Hillsborough,Tampa,33603,Male,Asian,Non-Hispanic/Latino,Secondary,25 - 29,8/6/2012
+Hillsborough,Tampa,33646,Male,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,2/22/2012
+Hillsborough,Tampa,33637,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,4/26/2012
+Hillsborough,Tampa,33607,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,1/19/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,10/31/2012
+Hillsborough,Tampa,33629,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,6/18/2012
+Hillsborough,Ruskin,33570,Male,White,Hispanic/Latino,Secondary,20 - 24,1/18/2012
+Hillsborough,Tampa,33610,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,7/30/2012
+Hillsborough,Tampa,33610,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,3/8/2012
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,Secondary,30 - 34,6/12/2012
+Hillsborough,Tampa,33603,Male,White,Hispanic/Latino,Secondary,35 - 39,1/4/2012
+Hillsborough,Tampa,33629,Male,White,Hispanic/Latino,Secondary,20 - 24,1/12/2012
+Hillsborough,Apollo Beach,33572,Male,Black/African American,Unknown,Secondary,25 - 29,3/13/2012
+Hillsborough,Brandon,33511,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,12/21/2012
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,12/14/2012
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,10/22/2012
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Unknown,Secondary,15 - 19,1/25/2012
+Hillsborough,Tampa,33609,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,2/22/2012
+Hillsborough,Tampa,33602,Male,White,Hispanic/Latino,Secondary,35 - 39,9/28/2012
+Hillsborough,Wimauma,33598,Male,White,Hispanic/Latino,Secondary,25 - 29,1/3/2012
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,1/12/2012
+Hillsborough,Valrico,33594,Male,White,Non-Hispanic/Latino,Secondary,30 - 34,1/20/2012
+Hillsborough,Tampa,33617,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,7/11/2012
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,2/8/2012
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,2/10/2012
+Hillsborough,Tampa,33617,Male,Asian,Unknown,Secondary,30 - 34,2/15/2012
+Hillsborough,Tampa,33624,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,2/16/2012
+Hillsborough,Tampa,33620,Male,Asian,Non-Hispanic/Latino,Secondary,20 - 24,2/17/2012
+Hillsborough,Tampa,33612,Male,White,Hispanic/Latino,Secondary,45 - 54,2/23/2012
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,2/29/2012
+Hillsborough,Tampa,33603,Male,White,Hispanic/Latino,Secondary,20 - 24,2/29/2012
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,3/13/2012
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,4/4/2012
+Hillsborough,Tampa,33606,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,4/4/2012
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,4/5/2012
+Hillsborough,Tampa,33615,Male,White,Hispanic/Latino,Secondary,20 - 24,4/13/2012
+Hillsborough,Tampa,33616,Male,Black/African American,Unknown,Secondary,30 - 34,4/25/2012
+Hillsborough,Tampa,33610,Male,White,Unknown,Secondary,20 - 24,4/25/2012
+Hillsborough,Tampa,33614,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,4/27/2012
+Hillsborough,Tampa,33612,Male,Black/African American,Hispanic/Latino,Secondary,30 - 34,5/1/2012
+Hillsborough,Riverview,33578,Male,Other,Hispanic/Latino,Secondary,20 - 24,5/17/2012
+Hillsborough,Tampa,33637,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,5/23/2012
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,5/31/2012
+Hillsborough,Tampa,33634,Male,White,Hispanic/Latino,Secondary,55 - 64,6/8/2012
+Hillsborough,Valrico,33594,Male,White,Hispanic/Latino,Secondary,35 - 39,6/13/2012
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,Secondary,20 - 24,6/13/2012
+Hillsborough,Tampa,33647,Male,White,Non-Hispanic/Latino,Secondary,55 - 64,6/15/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,6/15/2012
+Hillsborough,Tampa,33629,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,6/20/2012
+Hillsborough,Thonotosassa,33592,FeMaleale,White,Non-Hispanic/Latino,Secondary,55 - 64,6/20/2012
+Hillsborough,Tampa,33603,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,6/25/2012
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,Secondary,30 - 34,6/25/2012
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,9/24/2012
+Hillsborough,Thonotosassa,33592,Male,White,Non-Hispanic/Latino,Secondary,55 - 64,7/3/2012
+Hillsborough,Tampa,99999,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,7/13/2012
+Hillsborough,Tampa,33602,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,8/7/2012
+Hillsborough,Tampa,33603,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,8/7/2012
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,8/8/2012
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,8/10/2012
+Hillsborough,Riverview,33578,Male,White,Non-Hispanic/Latino,Secondary,55 - 64,8/10/2012
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,Secondary,30 - 34,9/4/2012
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,9/11/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,9/14/2012
+Hillsborough,Tampa,33604,Male,Other,Hispanic/Latino,Secondary,45 - 54,9/21/2012
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,9/26/2012
+Hillsborough,Tampa,33610,Male,Unknown,Hispanic/Latino,Secondary,35 - 39,9/28/2012
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,10/3/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Unknown,Secondary,15 - 19,10/5/2012
+Hillsborough,Tampa,33611,FeMaleale,White,Non-Hispanic/Latino,Secondary,15 - 19,10/5/2012
+Hillsborough,Tampa,33603,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,10/10/2012
+Hillsborough,Tampa,33604,Male,Other,Hispanic/Latino,Secondary,45 - 54,10/18/2012
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,10/23/2012
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,11/5/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,10/24/2012
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,11/6/2012
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,Secondary,55 - 64,11/19/2012
+Hillsborough,Tampa,33609,Male,White,Unknown,Secondary,40 - 44,11/26/2012
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,11/26/2012
+Hillsborough,Tampa,33617,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,12/14/2012
+Hillsborough,Tampa,33647,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,12/28/2012
+Hillsborough,Tampa,33605,Male,White,Hispanic/Latino,EarlyLatent,35 - 39,7/19/2012
+Hillsborough,Tampa,33610,FeMaleale,White,Hispanic/Latino,EarlyLatent,25 - 29,5/15/2012
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,3/16/2012
+Hillsborough,Tampa,33607,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,9/21/2012
+Hillsborough,Tampa,33604,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,12/27/2012
+Hillsborough,Tampa,33633,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,11/15/2012
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,4/10/2012
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,11/7/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,11/29/2012
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,40 - 44,2/22/2012
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,4/20/2012
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,11/29/2012
+Hillsborough,Ruskin,33570,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,3/22/2012
+Hillsborough,Tampa,33607,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,1/11/2012
+Hillsborough,Riverview,33578,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,55 - 64,3/26/2012
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,40 - 44,1/11/2012
+Hillsborough,Tampa,33614,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,4/11/2012
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,9/6/2012
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,1/31/2012
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,40 - 44,11/14/2012
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,5/23/2012
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,9/28/2012
+Hillsborough,Tampa,33629,Male,White,Hispanic/Latino,EarlyLatent,55 - 64,8/9/2012
+Hillsborough,Temple Terrace,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,10/23/2012
+Hillsborough,Tampa,33617,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,11/26/2012
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,EarlyLatent,30 - 34,3/6/2012
+Hillsborough,Tampa,33615,Male,White,Hispanic/Latino,EarlyLatent,35 - 39,9/21/2012
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,3/13/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,12/3/2012
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,3/8/2012
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,11/30/2012
+Hillsborough,Tampa,33607,Male,White,Hispanic/Latino,EarlyLatent,20 - 24,8/7/2012
+Hillsborough,Tampa,33607,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,4/11/2012
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,5/21/2012
+Hillsborough,Tampa,33637,Male,White,Non-Hispanic/Latino,EarlyLatent,20 - 24,2/17/2012
+Hillsborough,Tampa,33607,Male,Other,Hispanic/Latino,EarlyLatent,35 - 39,5/7/2012
+Hillsborough,Tampa,33614,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,11/19/2012
+Hillsborough,Tampa,33625,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,2/10/2012
+Hillsborough,Lutz,33549,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,12/20/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Unknown,EarlyLatent,25 - 29,9/18/2012
+Hillsborough,Lutz,33559,Male,White,Hispanic/Latino,EarlyLatent,45 - 54,6/13/2012
+Hillsborough,Brandon,33511,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,5/29/2012
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,5/7/2012
+Hillsborough,Riverview,33578,Male,White,Hispanic/Latino,EarlyLatent,25 - 29,10/17/2012
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,55 - 64,1/23/2012
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,9/19/2012
+Hillsborough,Brandon,33511,Male,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,11/8/2012
+Hillsborough,Tampa,33614,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,15 - 19,2/8/2012
+Hillsborough,Tampa,33604,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,4/17/2012
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,6/6/2012
+Hillsborough,Tampa,33613,Male,Black/African American,Unknown,EarlyLatent,20 - 24,7/26/2012
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,6/4/2012
+Hillsborough,Tampa,33619,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,3/19/2012
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,EarlyLatent,20 - 24,5/25/2012
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,6/25/2012
+Hillsborough,Tampa,33607,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,1/27/2012
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Hispanic/Latino,EarlyLatent,20 - 24,9/28/2012
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,10/26/2012
+Hillsborough,Tampa,33602,Male,White,Hispanic/Latino,EarlyLatent,20 - 24,11/27/2012
+Hillsborough,Tampa,33602,Male,White,Hispanic/Latino,EarlyLatent,45 - 54,4/12/2012
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/4/2012
+Hillsborough,Tampa,33625,Male,White,Non-Hispanic/Latino,EarlyLatent,30 - 34,10/23/2012
+Hillsborough,Lutz,33558,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,1/5/2012
+Hillsborough,Tampa,33625,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,4/25/2012
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,1/10/2012
+Hillsborough,Tampa,33610,Male,White,Non-Hispanic/Latino,EarlyLatent,15 - 19,1/11/2012
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,1/11/2012
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,EarlyLatent,20 - 24,1/26/2012
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,EarlyLatent,20 - 24,1/31/2012
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,2/2/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,2/2/2012
+Hillsborough,Tampa,33619,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,15 - 19,5/24/2012
+Hillsborough,Tampa,33602,Male,White,Hispanic/Latino,EarlyLatent,35 - 39,2/13/2012
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,2/14/2012
+Hillsborough,Tampa,33619,Male,Other,Hispanic/Latino,EarlyLatent,20 - 24,11/19/2012
+Hillsborough,Tampa,33615,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,2/22/2012
+Hillsborough,Gibsonton,33534,FeMaleale,White,Hispanic/Latino,EarlyLatent,35 - 39,2/28/2012
+Hillsborough,Gibsonton,33534,Male,White,Hispanic/Latino,EarlyLatent,35 - 39,2/29/2012
+Hillsborough,Tampa,33615,Male,Asian,Non-Hispanic/Latino,EarlyLatent,45 - 54,3/5/2012
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,3/5/2012
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,3/6/2012
+Hillsborough,Tampa,33605,Male,Black/African American,Unknown,EarlyLatent,45 - 54,3/22/2012
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,6/14/2012
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,40 - 44,4/10/2012
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,4/11/2012
+Hillsborough,Wimauma,33598,FeMaleale,White,Hispanic/Latino,EarlyLatent,20 - 24,5/9/2012
+Hillsborough,Tampa,33609,Male,Asian,Non-Hispanic/Latino,EarlyLatent,25 - 29,6/6/2012
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,6/12/2012
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,EarlyLatent,55 - 64,6/14/2012
+Hillsborough,Tampa,33647,Male,White,Non-Hispanic/Latino,EarlyLatent,20 - 24,6/15/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,6/19/2012
+Hillsborough,Tampa,33612,Male,Black/African American,Hispanic/Latino,EarlyLatent,25 - 29,6/21/2012
+Hillsborough,Brandon,33511,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,30 - 34,6/21/2012
+Hillsborough,Tampa,33613,FeMaleale,American Indian/Alaskan Native,Non-Hispanic/Latino,EarlyLatent,30 - 34,12/6/2012
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,6/28/2012
+Hillsborough,Tampa,33635,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,6/29/2012
+Hillsborough,Riverview,33578,Male,Unknown,Unknown,EarlyLatent,45 - 54,7/5/2012
+Hillsborough,Tampa,33612,Male,White,Hispanic/Latino,EarlyLatent,30 - 34,7/11/2012
+Hillsborough,Tampa,33634,Male,White,Hispanic/Latino,EarlyLatent,30 - 34,7/11/2012
+Hillsborough,Tampa,33606,Male,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,7/17/2012
+Hillsborough,Riverview,33578,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,8/6/2012
+Hillsborough,Tampa,33625,Male,Other,Non-Hispanic/Latino,EarlyLatent,15 - 19,9/26/2012
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,EarlyLatent,15 - 19,8/28/2012
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,11/15/2012
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,9/11/2012
+Hillsborough,Tampa,33605,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,9/19/2012
+Hillsborough,Plant City,33567,Male,Other,Unknown,EarlyLatent,20 - 24,10/8/2012
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,10/19/2012
+Hillsborough,Tampa,33626,Male,White,Non-Hispanic/Latino,EarlyLatent,20 - 24,10/23/2012
+Hillsborough,Tampa,33614,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,10/25/2012
+Hillsborough,Tampa,33613,Male,White,Non-Hispanic/Latino,EarlyLatent,20 - 24,11/1/2012
+Hillsborough,Seffner,33584,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,11/7/2012
+Hillsborough,Tampa,33602,Male,White,Hispanic/Latino,EarlyLatent,20 - 24,12/5/2012
+Hillsborough,Lutz,33558,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,12/12/2012
+Hillsborough,Seffner,33584,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,12/14/2012
+Hillsborough,Brandon,33511,Male,White,Non-Hispanic/Latino,EarlyLatent,30 - 34,12/21/2012
+Hillsborough,Tampa,33619,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,25 - 29,6/8/2012
+Hillsborough,Tampa,33618,Male,Black/African American,Non-Hispanic/Latino,UnknownLatency,30 - 34,7/10/2012
+Hillsborough,Tampa,33607,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,20 - 24,4/25/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Hispanic/Latino,UnknownLatency,25 - 29,9/18/2012
+Hillsborough,Tampa,33619,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,25 - 29,6/1/2012
+Hillsborough,Sun City Center,33573,Male,Black/African American,Non-Hispanic/Latino,UnknownLatency,20 - 24,10/17/2012
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,20 - 24,1/3/2012
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,20 - 24,3/28/2012
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,UnknownLatency,25 - 29,10/25/2012
+Hillsborough,Brandon,33511,Male,Black/African American,Non-Hispanic/Latino,UnknownLatency,20 - 24,1/12/2012
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,UnknownLatency,25 - 29,2/23/2012
+Hillsborough,Brandon,33510,Male,Black/African American,Non-Hispanic/Latino,UnknownLatency,25 - 29,4/25/2012
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,15 - 19,9/24/2012
+Hillsborough,Tampa,33612,Male,White,Hispanic/Latino,UnknownLatency,25 - 29,2/15/2012
+Hillsborough,Tampa,33614,Male,Other,Hispanic/Latino,UnknownLatency,30 - 34,2/6/2012
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,UnknownLatency,15 - 19,4/13/2012
+Hillsborough,Tampa,33614,FeMaleale,White,Hispanic/Latino,UnknownLatency,20 - 24,4/17/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Unknown,UnknownLatency,25 - 29,5/9/2012
+Hillsborough,Tampa,33613,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,20 - 24,6/13/2012
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,UnknownLatency,20 - 24,9/17/2012
+Hillsborough,Tampa,33604,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,15 - 19,9/27/2012
+Hillsborough,Tampa,33615,Male,Unknown,Unknown,UnknownLatency,35 - 39,10/10/2012
+Hillsborough,Tampa,33613,FeMaleale,White,Non-Hispanic/Latino,UnknownLatency,30 - 34,11/6/2012
+Hillsborough,Tampa,33604,FeMaleale,Black/African American,Unknown,UnknownLatency,15 - 19,11/13/2012
+Hillsborough,Tampa,33607,Male,Other,Hispanic/Latino,UnknownLatency,25 - 29,12/10/2012
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,UnknownLatency,25 - 29,12/13/2012
+Hillsborough,Seffner,33583,Male,White,Non-Hispanic/Latino,UnknownLatency,30 - 34,12/14/2012
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,12/18/2012
+Hillsborough,Ruskin,33570,Male,White,Hispanic/Latino,LateLatent,35 - 39,2/28/2012
+Hillsborough,Riverview,33579,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,5/11/2012
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,7/20/2012
+Hillsborough,Tampa,33602,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,2/7/2012
+Hillsborough,Tampa,33606,Male,White,Hispanic/Latino,LateLatent,55 - 64,10/12/2012
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,5/31/2012
+Hillsborough,Tampa,33603,Male,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,10/1/2012
+Hillsborough,Tampa,33617,Male,White,Hispanic/Latino,LateLatent,45 - 54,5/11/2012
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,8/17/2012
+Hillsborough,Tampa,33603,FeMaleale,White,Hispanic/Latino,LateLatent,30 - 34,10/26/2012
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,4/18/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,12/14/2012
+Hillsborough,Tampa,33635,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,2/10/2012
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,9/19/2012
+Hillsborough,Tampa,33619,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,5/29/2012
+Hillsborough,Seffner,33584,Male,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,12/10/2012
+Hillsborough,Tampa,33604,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,1/31/2012
+Hillsborough,Tampa,33603,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,6/13/2012
+Hillsborough,Seffner,33584,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,10/4/2012
+Hillsborough,Tampa,33624,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,6/12/2012
+Hillsborough,Tampa,33613,Male,Unknown,Unknown,LateLatent,45 - 54,1/17/2012
+Hillsborough,Tampa,33614,Male,Black/African American,Hispanic/Latino,LateLatent,40 - 44,12/13/2012
+Hillsborough,Tampa,33605,Male,Black/African American,Unknown,LateLatent,40 - 44,5/18/2012
+Hillsborough,Tampa,33629,Male,White,Hispanic/Latino,LateLatent,45 - 54,3/21/2012
+Hillsborough,Tampa,33607,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,12/3/2012
+Hillsborough,Tampa,33647,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,7/11/2012
+Hillsborough,Brandon,33511,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,9/27/2012
+Hillsborough,Tampa,33625,FeMaleale,White,Non-Hispanic/Latino,LateLatent,25 - 29,11/13/2012
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,15 - 19,6/14/2012
+Hillsborough,Gibsonton,33534,FeMaleale,Asian,Non-Hispanic/Latino,LateLatent,20 - 24,8/29/2012
+Hillsborough,Tampa,33616,FeMaleale,White,Non-Hispanic/Latino,LateLatent,20 - 24,1/26/2012
+Hillsborough,Tampa,33634,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,5/22/2012
+Hillsborough,Lutz,33558,Male,White,Hispanic/Latino,LateLatent,45 - 54,6/29/2012
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,3/13/2012
+Hillsborough,Riverview,33578,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,7/31/2012
+Hillsborough,Tampa,33634,FeMaleale,White,Hispanic/Latino,LateLatent,45 - 54,1/9/2012
+Hillsborough,Tampa,33647,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,4/13/2012
+Hillsborough,Tampa,33629,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,5/21/2012
+Hillsborough,Tampa,33634,Male,Other,Hispanic/Latino,LateLatent,35 - 39,5/24/2012
+Hillsborough,Tampa,33613,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,2/17/2012
+Hillsborough,Brandon,33511,FeMaleale,White,Non-Hispanic/Latino,LateLatent,25 - 29,8/28/2012
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,10/15/2012
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,LateLatent,55 - 64,9/27/2012
+Hillsborough,Tampa,33607,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,1/20/2012
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,3/13/2012
+Hillsborough,Tampa,33624,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,8/9/2012
+Hillsborough,Tampa,33647,FeMaleale,White,Non-Hispanic/Latino,LateLatent,20 - 24,1/26/2012
+Hillsborough,Riverview,34221,Male,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,12/14/2012
+Hillsborough,Lutz,33559,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,1/5/2012
+Hillsborough,Tampa,33616,Male,Asian,Non-Hispanic/Latino,LateLatent,25 - 29,1/5/2012
+Hillsborough,Tampa,33615,Male,Other,Hispanic/Latino,LateLatent,40 - 44,1/19/2012
+Hillsborough,Tampa,33606,Male,White,Hispanic/Latino,LateLatent,40 - 44,1/25/2012
+Hillsborough,Tampa,33611,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,65 -120,2/1/2012
+Hillsborough,Tampa,33634,Male,White,Hispanic/Latino,LateLatent,35 - 39,2/2/2012
+Hillsborough,Temple Terrace,33637,Male,White,Unknown,LateLatent,30 - 34,2/16/2012
+Hillsborough,Tampa,33607,FeMaleale,White,Hispanic/Latino,LateLatent,45 - 54,2/16/2012
+Hillsborough,Tampa,33626,Male,White,Unknown,LateLatent,40 - 44,2/16/2012
+Hillsborough,Tampa,33617,FeMaleale,White,Hispanic/Latino,LateLatent,25 - 29,4/3/2012
+Hillsborough,Tampa,33617,FeMaleale,White,Non-Hispanic/Latino,LateLatent,55 - 64,3/20/2012
+Hillsborough,Brandon,33511,Male,White,Unknown,LateLatent,40 - 44,3/26/2012
+Hillsborough,Tampa,33614,FeMaleale,Other,Unknown,LateLatent,30 - 34,3/28/2012
+Hillsborough,Tampa,33603,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,3/30/2012
+Hillsborough,Ruskin,33573,Male,Unknown,Unknown,LateLatent,45 - 54,4/4/2012
+Hillsborough,Tampa,33634,FeMaleale,White,Hispanic/Latino,LateLatent,35 - 39,4/5/2012
+Hillsborough,Tampa,33614,FeMaleale,White,Hispanic/Latino,LateLatent,65 -120,4/6/2012
+Hillsborough,Brandon,33510,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,4/18/2012
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,4/18/2012
+Hillsborough,Tampa,33624,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,4/20/2012
+Hillsborough,Tampa,33566,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,5/4/2012
+Hillsborough,Apollo Beach,33572,FeMaleale,White,Non-Hispanic/Latino,LateLatent,45 - 54,5/9/2012
+Hillsborough,Tampa,33610,FeMaleale,White,Non-Hispanic/Latino,LateLatent,65 -120,6/6/2012
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,7/31/2012
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,LateLatent,35 - 39,6/18/2012
+Hillsborough,Tampa,33624,Male,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,6/18/2012
+Hillsborough,Tampa,33612,Male,Black/African American,Unknown,LateLatent,40 - 44,7/5/2012
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,7/11/2012
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,15 - 19,7/23/2012
+Hillsborough,Tampa,33604,FeMaleale,White,Non-Hispanic/Latino,LateLatent,20 - 24,7/25/2012
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,8/14/2012
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,8/20/2012
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,8/20/2012
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,8/23/2012
+Hillsborough,Tampa,33603,FeMaleale,Other,Unknown,LateLatent,30 - 34,8/27/2012
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,LateLatent,55 - 64,9/5/2012
+Hillsborough,Tampa,33607,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,9/5/2012
+Hillsborough,Tampa,33637,Male,White,Non-Hispanic/Latino,LateLatent,20 - 24,9/13/2012
+Hillsborough,Seffner,33584,Male,White,Non-Hispanic/Latino,LateLatent,35 - 39,9/13/2012
+Hillsborough,Tampa,33604,Male,White,Hispanic/Latino,LateLatent,15 - 19,9/17/2012
+Hillsborough,Tampa,33613,Male,Black/African American,Unknown,LateLatent,55 - 64,9/19/2012
+Hillsborough,Tampa,33637,Male,Unknown,Non-Hispanic/Latino,LateLatent,40 - 44,9/20/2012
+Hillsborough,Tampa,33602,FeMaleale,Unknown,Unknown,LateLatent,25 - 29,9/26/2012
+Hillsborough,Tampa,33619,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,10/4/2012
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,LateLatent,35 - 39,10/31/2012
+Hillsborough,Tampa,33615,FeMaleale,Other,Hispanic/Latino,LateLatent,40 - 44,11/5/2012
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,12/7/2012
+Hillsborough,Tampa,33612,FeMaleale,White,Hispanic/Latino,LateLatent,30 - 34,11/19/2012
+Hillsborough,Tampa,33614,Male,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,11/21/2012
+Hillsborough,Plant City,33567,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,11/27/2012
+Hillsborough,Riverview,33578,FeMaleale,Unknown,Unknown,LateLatent,20 - 24,12/3/2012
+Hillsborough,Apollo Beach,33572,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,12/3/2012
+Hillsborough,Tampa,33611,FeMaleale,White,Non-Hispanic/Latino,LateLatent,65 -120,12/19/2012
+Hillsborough,Plant City,33567,FeMaleale,White,Non-Hispanic/Latino,LateLatent,40 - 44,12/26/2012
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,Primary,45 - 54,11/21/2013
+Hillsborough,Riverview,33578,Male,Black/African American,Non-Hispanic/Latino,Primary,45 - 54,8/8/2013
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,Primary,35 - 39,5/1/2013
+Hillsborough,Tampa,33615,FeMaleale,Black/African American,Non-Hispanic/Latino,Primary,45 - 54,7/25/2013
+Hillsborough,Tampa,33675,FeMaleale,Black/African American,Non-Hispanic/Latino,Primary,30 - 34,4/11/2013
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,Primary,30 - 34,9/6/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,Primary,55 - 64,8/19/2013
+Hillsborough,Tampa,33603,FeMaleale,Black/African American,Non-Hispanic/Latino,Primary,30 - 34,8/15/2013
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,Primary,35 - 39,5/28/2013
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,Primary,35 - 39,3/12/2013
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,Primary,55 - 64,6/18/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Primary,30 - 34,2/4/2013
+Hillsborough,Tampa,33602,Male,Black/African American,Non-Hispanic/Latino,Primary,65 -120,8/28/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,9/17/2013
+Hillsborough,Tampa,33619,Male,White,Non-Hispanic/Latino,Primary,45 - 54,10/10/2013
+Hillsborough,Tampa,33617,Male,White,Hispanic/Latino,Primary,40 - 44,3/6/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Unknown,Primary,35 - 39,1/23/2013
+Hillsborough,Seffner,33584,Male,Black/African American,Non-Hispanic/Latino,Primary,45 - 54,1/28/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,12/14/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,2/7/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,Primary,35 - 39,9/13/2013
+Hillsborough,Tampa,33604,FeMaleale,Black/African American,Non-Hispanic/Latino,Primary,35 - 39,7/1/2013
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,3/11/2013
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,9/17/2013
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,11/7/2013
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,Primary,40 - 44,1/10/2013
+Hillsborough,Valrico,33594,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,1/17/2013
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,Primary,25 - 29,11/19/2013
+Hillsborough,Tampa,33606,Male,White,Non-Hispanic/Latino,Primary,25 - 29,5/22/2013
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,Primary,15 - 19,9/26/2013
+Hillsborough,Tampa,33647,Male,Black/African American,Non-Hispanic/Latino,Primary,15 - 19,1/7/2013
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,Primary,20 - 24,2/14/2013
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,2/12/2013
+Hillsborough,Riverview,33578,Male,Other,Hispanic/Latino,Primary,25 - 29,2/25/2013
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,Primary,30 - 34,3/6/2013
+Hillsborough,Valrico,33596,Male,Black/African American,Unknown,Primary,30 - 34,5/16/2013
+Hillsborough,Tampa,33609,Male,White,Unknown,Primary,25 - 29,5/20/2013
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,11/21/2013
+Hillsborough,Tampa,33610,FeMaleale,Unknown,Non-Hispanic/Latino,Primary,35 - 39,6/17/2013
+Hillsborough,Brandon,33510,Male,Black/African American,Non-Hispanic/Latino,Primary,15 - 19,7/19/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,Primary,40 - 44,9/6/2013
+Hillsborough,Tampa,33619,Male,Other,Non-Hispanic/Latino,Primary,35 - 39,9/16/2013
+Hillsborough,Tampa,33602,FeMaleale,Black/African American,Non-Hispanic/Latino,Primary,45 - 54,10/10/2013
+Hillsborough,Brandon,33511,Male,Unknown,Unknown,Primary,15 - 19,10/18/2013
+Hillsborough,Tampa,33635,Male,White,Non-Hispanic/Latino,Primary,15 - 19,12/3/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Primary,35 - 39,12/17/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,12/30/2013
+Hillsborough,Lutz,33549,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,11/1/2013
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,4/4/2013
+Hillsborough,Tampa,33610,FeMaleale,White,Non-Hispanic/Latino,Secondary,45 - 54,6/14/2013
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,4/1/2013
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,11/26/2013
+Hillsborough,Tampa,33604,FeMaleale,White,Non-Hispanic/Latino,Secondary,35 - 39,10/21/2013
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,10/28/2013
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,4/17/2013
+Hillsborough,Tampa,33603,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,2/13/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,Secondary,55 - 64,4/12/2013
+Hillsborough,Tampa,33607,Male,White,Hispanic/Latino,Secondary,20 - 24,2/4/2013
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,8/28/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,6/3/2013
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,12/23/2013
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,7/24/2013
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,4/3/2013
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,8/13/2013
+Hillsborough,Tampa,32344,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,4/19/2013
+Hillsborough,Tampa,33619,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,7/8/2013
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,8/22/2013
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,8/23/2013
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,7/19/2013
+Hillsborough,Tampa,33604,Male,White,Hispanic/Latino,Secondary,25 - 29,6/19/2013
+Hillsborough,Lutz,33559,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,3/6/2013
+Hillsborough,Tampa,33637,Male,Black/African American,Non-Hispanic/Latino,Secondary,55 - 64,5/23/2013
+Hillsborough,Tampa,33611,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,5/28/2013
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,12/18/2013
+Hillsborough,Tampa,33614,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,10/30/2013
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,4/18/2013
+Hillsborough,Brandon,33511,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,12/9/2013
+Hillsborough,Thonotosassa,33592,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,7/22/2013
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,Secondary,45 - 54,8/9/2013
+Hillsborough,Apollo Beach,33572,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,7/26/2013
+Hillsborough,Tampa,33618,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,3/14/2013
+Hillsborough,Brandon,33511,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,12/12/2013
+Hillsborough,Tampa,33602,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,11/6/2013
+Hillsborough,Brandon,33511,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,4/12/2013
+Hillsborough,Dover,33527,Male,White,Non-Hispanic/Latino,Secondary,30 - 34,4/29/2013
+Hillsborough,Tampa,33637,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,8/1/2013
+Hillsborough,Brandon,33510,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,12/17/2013
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,9/26/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Unknown,Secondary,30 - 34,9/3/2013
+Hillsborough,Tampa,33607,FeMaleale,Black/African American,Unknown,Secondary,20 - 24,5/6/2013
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,12/2/2013
+Hillsborough,Tampa,33635,Male,White,Hispanic/Latino,Secondary,25 - 29,1/25/2013
+Hillsborough,Tampa,33612,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,7/12/2013
+Hillsborough,Tampa,33603,Male,Asian,Non-Hispanic/Latino,Secondary,30 - 34,12/10/2013
+Hillsborough,Tampa,33619,Male,White,Hispanic/Latino,Secondary,25 - 29,2/7/2013
+Hillsborough,Tampa,33629,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,1/22/2013
+Hillsborough,Brandon,33511,Male,White,Hispanic/Latino,Secondary,20 - 24,12/30/2013
+Hillsborough,Tampa,33603,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,9/12/2013
+Hillsborough,Tampa,33603,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,9/5/2013
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,11/15/2013
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,4/24/2013
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,9/18/2013
+Hillsborough,Tampa,33614,Male,White,Non-Hispanic/Latino,Secondary,55 - 64,11/18/2013
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,8/22/2013
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,8/6/2013
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,3/25/2013
+Hillsborough,Tampa,33603,Male,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,8/20/2013
+Hillsborough,Thonotosassa,33592,Male,White,Non-Hispanic/Latino,Secondary,30 - 34,9/3/2013
+Hillsborough,Tampa,33613,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,12/18/2013
+Hillsborough,Lutz,33548,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,9/9/2013
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,11/12/2013
+Hillsborough,Tampa,33602,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,11/1/2013
+Hillsborough,Brandon,33511,Male,White,Non-Hispanic/Latino,Secondary,15 - 19,3/11/2013
+Hillsborough,Tampa,33610,FeMaleale,Unknown,Unknown,Secondary,20 - 24,4/16/2013
+Hillsborough,Tampa,33602,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,9/20/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,9/19/2013
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,11/22/2013
+Hillsborough,Tampa,33637,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,1/14/2013
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,1/2/2013
+Hillsborough,Tampa,33647,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,1/14/2013
+Hillsborough,Brandon,33511,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,1/17/2013
+Hillsborough,Tampa,33611,Male,Unknown,Unknown,Secondary,45 - 54,1/22/2013
+Hillsborough,Tampa,33616,Male,Asian,Non-Hispanic/Latino,Secondary,20 - 24,1/24/2013
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,1/24/2013
+Hillsborough,Tampa,33619,Male,Other,Hispanic/Latino,Secondary,35 - 39,1/28/2013
+Hillsborough,Tampa,33617,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,11/7/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,2/18/2013
+Hillsborough,Tampa,33637,Male,Other,Non-Hispanic/Latino,Secondary,20 - 24,5/2/2013
+Hillsborough,Plant City,33567,Male,White,Unknown,Secondary,20 - 24,3/11/2013
+Hillsborough,Tampa,33612,Male,White,Unknown,Secondary,25 - 29,3/21/2013
+Hillsborough,Tampa,33637,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,4/2/2013
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,10/29/2013
+Hillsborough,Tampa,33615,Male,White,Unknown,Secondary,40 - 44,4/10/2013
+Hillsborough,Tampa,33615,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,8/5/2013
+Hillsborough,Tampa,33615,Male,Unknown,Hispanic/Latino,Secondary,20 - 24,4/30/2013
+Hillsborough,Tampa,33614,Male,Unknown,Unknown,Secondary,40 - 44,5/9/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,5/9/2013
+Hillsborough,Tampa,33616,Male,Black/African American,Non-Hispanic/Latino,Secondary,10 - 14,5/28/2013
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,11/19/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,7/3/2013
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,7/8/2013
+Hillsborough,Tampa,33602,Male,White,Unknown,Secondary,20 - 24,8/2/2013
+Hillsborough,Tampa,33617,Male,White,Hispanic/Latino,Secondary,40 - 44,8/5/2013
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,8/5/2013
+Hillsborough,Plant City,33563,Male,White,Non-Hispanic/Latino,Secondary,65 -120,8/12/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,8/21/2013
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,8/21/2013
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,8/23/2013
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,11/18/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,8/29/2013
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,9/13/2013
+Hillsborough,Riverview,33578,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,9/24/2013
+Hillsborough,Lithia,33547,Male,White,Non-Hispanic/Latino,Secondary,15 - 19,9/26/2013
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,10 - 14,10/3/2013
+Hillsborough,Tampa,33603,Male,White,Hispanic/Latino,Secondary,45 - 54,10/8/2013
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,Secondary,25 - 29,11/21/2013
+Hillsborough,Tampa,33629,Male,Other,Hispanic/Latino,Secondary,55 - 64,10/24/2013
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,11/1/2013
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,11/6/2013
+Hillsborough,Tampa,33612,Male,White,Hispanic/Latino,Secondary,30 - 34,12/2/2013
+Hillsborough,Tampa,33607,Male,Black/African American,Unknown,Secondary,40 - 44,12/2/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,12/26/2013
+Hillsborough,Tampa,33603,Male,Other,Hispanic/Latino,Secondary,40 - 44,12/18/2013
+Hillsborough,Tampa,33647,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,12/20/2013
+Hillsborough,Tampa,33616,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,12/31/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,11/27/2013
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,9/16/2013
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,EarlyLatent,30 - 34,9/3/2013
+Hillsborough,Tampa,33625,Male,White,Non-Hispanic/Latino,EarlyLatent,55 - 64,7/11/2013
+Hillsborough,Plant City,33563,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,40 - 44,11/22/2013
+Hillsborough,Tampa,33610,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,6/6/2013
+Hillsborough,Riverview,33579,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,4/25/2013
+Hillsborough,Lutz,33549,Male,White,Hispanic/Latino,EarlyLatent,55 - 64,9/17/2013
+Hillsborough,Tampa,33602,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,30 - 34,5/28/2013
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,1/22/2013
+Hillsborough,Tampa,33603,Male,White,Hispanic/Latino,EarlyLatent,35 - 39,10/4/2013
+Hillsborough,Tampa,33605,Male,White,Unknown,EarlyLatent,45 - 54,6/24/2013
+Hillsborough,Lutz,33549,Male,Black/African American,Unknown,EarlyLatent,45 - 54,7/11/2013
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,10/11/2013
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,3/25/2013
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,4/26/2013
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,12/12/2013
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,1/17/2013
+Hillsborough,Tampa,33602,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,12/2/2013
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/9/2013
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,12/12/2013
+Hillsborough,Tampa,33616,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,11/6/2013
+Hillsborough,Wimauma,33598,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,40 - 44,5/28/2013
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,5/21/2013
+Hillsborough,Tampa,33612,Male,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,7/2/2013
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,12/11/2013
+Hillsborough,Tampa,33613,FeMaleale,White,Unknown,EarlyLatent,20 - 24,9/23/2013
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,12/11/2013
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,3/19/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,12/16/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,7/24/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,10/22/2013
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,65 -120,12/26/2013
+Hillsborough,Lutz,33558,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,3/25/2013
+Hillsborough,Tampa,33603,Male,White,Hispanic/Latino,EarlyLatent,45 - 54,8/13/2013
+Hillsborough,Tampa,33603,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,12/3/2013
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,EarlyLatent,55 - 64,5/2/2013
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/13/2013
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,12/5/2013
+Hillsborough,Tampa,33604,Male,White,Hispanic/Latino,EarlyLatent,25 - 29,8/22/2013
+Hillsborough,Tampa,33618,Male,White,Hispanic/Latino,EarlyLatent,45 - 54,5/17/2013
+Hillsborough,Tampa,33629,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,9/9/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,11/22/2013
+Hillsborough,Tampa,33610,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,3/11/2013
+Hillsborough,Tampa,33607,Male,White,Non-Hispanic/Latino,EarlyLatent,30 - 34,2/1/2013
+Hillsborough,Tampa,33615,Male,Unknown,Unknown,EarlyLatent,45 - 54,4/1/2013
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,4/26/2013
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,3/27/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,2/18/2013
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/2/2013
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,40 - 44,7/15/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,3/11/2013
+Hillsborough,Brandon,33510,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,9/23/2013
+Hillsborough,Tampa,33607,Male,White,Hispanic/Latino,EarlyLatent,45 - 54,5/9/2013
+Hillsborough,Lutz,33549,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,11/4/2013
+Hillsborough,Tampa,33624,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,6/5/2013
+Hillsborough,Tampa,33635,Male,White,Hispanic/Latino,EarlyLatent,25 - 29,10/10/2013
+Hillsborough,Tampa,33624,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,10/24/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Unknown,EarlyLatent,25 - 29,11/27/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,10/15/2013
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,5/30/2013
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,12/3/2013
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,3/8/2013
+Hillsborough,Lutz,33549,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,1/15/2013
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,2/5/2013
+Hillsborough,Lutz,33559,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,12/2/2013
+Hillsborough,Odessa,33556,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,8/23/2013
+Hillsborough,Tampa,33603,Male,White,Hispanic/Latino,EarlyLatent,35 - 39,11/12/2013
+Hillsborough,Tampa,33611,Male,White,Hispanic/Latino,EarlyLatent,30 - 34,11/7/2013
+Hillsborough,Tampa,33614,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,5/23/2013
+Hillsborough,Wimauma,33598,FeMaleale,Other,Hispanic/Latino,EarlyLatent,25 - 29,5/14/2013
+Hillsborough,Tampa,33613,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,9/24/2013
+Hillsborough,Tampa,33634,Male,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,6/19/2013
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/7/2013
+Hillsborough,Tampa,33614,Male,Unknown,Unknown,EarlyLatent,35 - 39,10/10/2013
+Hillsborough,Lutz,33549,Male,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,3/18/2013
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,12/2/2013
+Hillsborough,Tampa,33647,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,40 - 44,9/10/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,2/5/2013
+Hillsborough,Seffner,33584,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,7/24/2013
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,1/14/2013
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,EarlyLatent,30 - 34,5/10/2013
+Hillsborough,Tampa,33619,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,9/13/2013
+Hillsborough,Tampa,33604,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,12/23/2013
+Hillsborough,Tampa,33612,Male,White,Non-Hispanic/Latino,EarlyLatent,30 - 34,2/18/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,7/10/2013
+Hillsborough,Tampa,33612,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,2/26/2013
+Hillsborough,Tampa,33604,FeMaleale,Black/African American,Unknown,EarlyLatent,15 - 19,2/11/2013
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,4/30/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,1/18/2013
+Hillsborough,Tampa,33607,FeMaleale,White,Hispanic/Latino,EarlyLatent,30 - 34,1/15/2013
+Hillsborough,Tampa,33621,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,1/15/2013
+Hillsborough,Tampa,33635,Male,White,Unknown,EarlyLatent,25 - 29,1/17/2013
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,55 - 64,2/1/2013
+Hillsborough,Brandon,33510,Male,White,Non-Hispanic/Latino,EarlyLatent,20 - 24,1/31/2013
+Hillsborough,Tampa,33614,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,2/11/2013
+Hillsborough,Tampa,33604,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,20 - 24,2/25/2013
+Hillsborough,Tampa,33625,Male,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,2/19/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,2/19/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,40 - 44,2/20/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,6/20/2013
+Hillsborough,Tampa,33617,Male,White,Non-Hispanic/Latino,EarlyLatent,20 - 24,3/20/2013
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,4/8/2013
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,5/8/2013
+Hillsborough,Tampa,33629,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,5/17/2013
+Hillsborough,Gibsonton,33534,Male,White,Hispanic/Latino,EarlyLatent,25 - 29,5/21/2013
+Hillsborough,Tampa,33612,Male,Other,Hispanic/Latino,EarlyLatent,40 - 44,5/22/2013
+Hillsborough,Tampa,33612,Male,White,Hispanic/Latino,EarlyLatent,40 - 44,5/23/2013
+Hillsborough,Tampa,33637,Male,White,Non-Hispanic/Latino,EarlyLatent,15 - 19,5/24/2013
+Hillsborough,Gibsonton,33534,Male,White,Hispanic/Latino,EarlyLatent,25 - 29,5/29/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,12/30/2013
+Hillsborough,Tampa,33603,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,6/4/2013
+Hillsborough,Brandon,33511,Male,White,Unknown,EarlyLatent,15 - 19,6/4/2013
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,6/7/2013
+Hillsborough,Tampa,33602,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,55 - 64,6/19/2013
+Hillsborough,Tampa,33619,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,7/24/2013
+Hillsborough,Tampa,33612,Male,White,Hispanic/Latino,EarlyLatent,20 - 24,7/26/2013
+Hillsborough,Tampa,33607,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,8/6/2013
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,EarlyLatent,20 - 24,8/29/2013
+Hillsborough,Lutz,33549,FeMaleale,White,Hispanic/Latino,EarlyLatent,45 - 54,9/12/2013
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,9/16/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,10/7/2013
+Hillsborough,Riverview,33579,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,10/9/2013
+Hillsborough,Ruskin,33570,Male,White,Hispanic/Latino,EarlyLatent,20 - 24,10/30/2013
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,11/6/2013
+Hillsborough,Thonotosassa,33592,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,11/14/2013
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,12/4/2013
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,12/19/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,12/23/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,12/30/2013
+Hillsborough,Tampa,33604,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,30 - 34,8/23/2013
+Hillsborough,Riverview,33579,Male,Black/African American,Non-Hispanic/Latino,UnknownLatency,35 - 39,9/12/2013
+Hillsborough,Tampa,33629,Male,White,Non-Hispanic/Latino,UnknownLatency,25 - 29,11/8/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,30 - 34,10/21/2013
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,20 - 24,12/2/2013
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,30 - 34,2/7/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,30 - 34,11/1/2013
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,UnknownLatency,25 - 29,11/18/2013
+Hillsborough,Tampa,33613,Male,White,Non-Hispanic/Latino,UnknownLatency,25 - 29,8/2/2013
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,UnknownLatency,30 - 34,6/27/2013
+Hillsborough,Tampa,33609,FeMaleale,White,Non-Hispanic/Latino,UnknownLatency,25 - 29,11/22/2013
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,20 - 24,7/3/2013
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,UnknownLatency,30 - 34,10/21/2013
+Hillsborough,Tampa,33619,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,15 - 19,11/12/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,20 - 24,5/3/2013
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,15 - 19,5/31/2013
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,15 - 19,10/24/2013
+Hillsborough,Tampa,33624,Male,Unknown,Unknown,UnknownLatency,25 - 29,2/8/2013
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,UnknownLatency,25 - 29,2/11/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,UnknownLatency,20 - 24,2/18/2013
+Hillsborough,Tampa,33613,Male,White,Non-Hispanic/Latino,UnknownLatency,25 - 29,7/2/2013
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,15 - 19,9/23/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,15 - 19,7/24/2013
+Hillsborough,Lithia,33547,Male,White,Non-Hispanic/Latino,UnknownLatency,25 - 29,8/2/2013
+Hillsborough,Plant City,33566,Male,Black/African American,Non-Hispanic/Latino,UnknownLatency,25 - 29,8/2/2013
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,UnknownLatency,25 - 29,8/16/2013
+Hillsborough,Tampa,33603,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,30 - 34,9/26/2013
+Hillsborough,Riverview,33578,FeMaleale,Unknown,Unknown,UnknownLatency,15 - 19,10/16/2013
+Hillsborough,Tampa,33619,Male,Black/African American,Unknown,UnknownLatency,30 - 34,10/28/2013
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,UnknownLatency,20 - 24,11/13/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,35 - 39,12/2/2013
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,UnknownLatency,25 - 29,12/12/2013
+Hillsborough,Tampa,33604,Male,White,Hispanic/Latino,UnknownLatency,15 - 19,12/16/2013
+Hillsborough,Seffner,33584,FeMaleale,Black/African American,Non-Hispanic/Latino,UnknownLatency,15 - 19,12/16/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,1/22/2013
+Hillsborough,Valrico,33594,FeMaleale,White,Non-Hispanic/Latino,LateLatent,25 - 29,2/22/2013
+Hillsborough,Tampa,33604,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,10/18/2013
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,3/8/2013
+Hillsborough,Tampa,33611,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,2/20/2013
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,7/3/2013
+Hillsborough,Tampa,33612,FeMaleale,White,Non-Hispanic/Latino,LateLatent,35 - 39,1/17/2013
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,2/11/2013
+Hillsborough,Tampa,33612,Male,White,Hispanic/Latino,LateLatent,55 - 64,10/14/2013
+Hillsborough,Tampa,33602,Male,White,Hispanic/Latino,LateLatent,55 - 64,4/2/2013
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,2/28/2013
+Hillsborough,Tampa,33619,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,9/3/2013
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,LateLatent,65 -120,7/29/2013
+Hillsborough,Tampa,33614,FeMaleale,White,Hispanic/Latino,LateLatent,30 - 34,12/26/2013
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,10/23/2013
+Hillsborough,Riverview,33578,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,3/29/2013
+Hillsborough,Riverview,33579,Male,White,Hispanic/Latino,LateLatent,55 - 64,9/9/2013
+Hillsborough,Tampa,33617,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,12/27/2013
+Hillsborough,Temple Terrace,33637,Male,White,Hispanic/Latino,LateLatent,45 - 54,10/3/2013
+Hillsborough,Tampa,33619,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,7/30/2013
+Hillsborough,Tampa,33603,Male,White,Hispanic/Latino,LateLatent,45 - 54,7/24/2013
+Hillsborough,Valrico,33594,Male,White,Non-Hispanic/Latino,LateLatent,55 - 64,11/25/2013
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,5/10/2013
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,9/20/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,1/17/2013
+Hillsborough,Tampa,33647,Male,White,Non-Hispanic/Latino,LateLatent,30 - 34,7/10/2013
+Hillsborough,Tampa,33604,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,2/21/2013
+Hillsborough,Wimauma,33598,Male,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,11/7/2013
+Hillsborough,Brandon,33511,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,10/7/2013
+Hillsborough,Tampa,33614,FeMaleale,White,Hispanic/Latino,LateLatent,40 - 44,5/9/2013
+Hillsborough,Tampa,33613,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,8/8/2013
+Hillsborough,Tampa,33619,FeMaleale,White,Non-Hispanic/Latino,LateLatent,45 - 54,1/22/2013
+Hillsborough,Plant City,33563,Male,White,Non-Hispanic/Latino,LateLatent,65 -120,4/25/2013
+Hillsborough,Lithia,33547,Male,White,Non-Hispanic/Latino,LateLatent,55 - 64,4/22/2013
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,10/10/2013
+Hillsborough,Tampa,33613,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,12/9/2013
+Hillsborough,Tampa,33607,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,8/19/2013
+Hillsborough,Plant City,33563,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,1/14/2013
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,11/19/2013
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,10/8/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,7/18/2013
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,11/4/2013
+Hillsborough,Tampa,33625,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,7/25/2013
+Hillsborough,Tampa,33603,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,11/14/2013
+Hillsborough,Tampa,33618,Male,White,Non-Hispanic/Latino,LateLatent,55 - 64,12/9/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,7/18/2013
+Hillsborough,Tampa,33610,FeMaleale,White,Non-Hispanic/Latino,LateLatent,25 - 29,1/8/2013
+Hillsborough,Tampa,33612,Male,White,Non-Hispanic/Latino,LateLatent,25 - 29,8/22/2013
+Hillsborough,Tampa,33605,FeMaleale,White,Non-Hispanic/Latino,LateLatent,30 - 34,5/16/2013
+Hillsborough,Tampa,33602,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,8/30/2013
+Hillsborough,Valrico,33594,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,9/11/2013
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,4/1/2013
+Hillsborough,Apollo Beach,33572,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,5/23/2013
+Hillsborough,Tampa,33604,Male,White,Hispanic/Latino,LateLatent,35 - 39,9/23/2013
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,5/7/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,9/9/2013
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,10/16/2013
+Hillsborough,Tampa,33619,Male,White,Hispanic/Latino,LateLatent,25 - 29,9/23/2013
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,11/12/2013
+Hillsborough,Tampa,33629,Male,Asian,Non-Hispanic/Latino,LateLatent,45 - 54,5/13/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,4/1/2013
+Hillsborough,Tampa,33615,Male,White,Hispanic/Latino,LateLatent,45 - 54,9/5/2013
+Hillsborough,Brandon,33510,Male,White,Hispanic/Latino,LateLatent,55 - 64,9/6/2013
+Hillsborough,Tampa,33603,Male,Black/African American,Hispanic/Latino,LateLatent,25 - 29,12/13/2013
+Hillsborough,Tampa,33615,Male,White,Hispanic/Latino,LateLatent,40 - 44,5/13/2013
+Hillsborough,Tampa,33624,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,12/17/2013
+Hillsborough,Riverview,33579,Male,Other,Hispanic/Latino,LateLatent,45 - 54,5/7/2013
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,5/8/2013
+Hillsborough,Tampa,33616,Male,White,Non-Hispanic/Latino,LateLatent,35 - 39,11/21/2013
+Hillsborough,Lutz,33549,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,2/19/2013
+Hillsborough,Plant City,33563,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,11/12/2013
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,11/7/2013
+Hillsborough,Tampa,33615,Male,Other,Hispanic/Latino,LateLatent,25 - 29,5/3/2013
+Hillsborough,Tampa,33625,Male,White,Hispanic/Latino,LateLatent,45 - 54,10/4/2013
+Hillsborough,Tampa,33602,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,9/13/2013
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,1/7/2013
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,1/8/2013
+Hillsborough,Tampa,33614,FeMaleale,Unknown,Unknown,LateLatent,30 - 34,1/9/2013
+Hillsborough,Gibsonton,33534,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,1/9/2013
+Hillsborough,Tampa,33614,FeMaleale,White,Non-Hispanic/Latino,LateLatent,40 - 44,1/11/2013
+Hillsborough,Tampa,33634,Male,Other,Hispanic/Latino,LateLatent,25 - 29,1/15/2013
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,10/2/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,1/22/2013
+Hillsborough,Tampa,33635,Male,White,Non-Hispanic/Latino,LateLatent,35 - 39,2/1/2013
+Hillsborough,Plant City,33563,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,2/12/2013
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,LateLatent,15 - 19,2/14/2013
+Hillsborough,Seffner,33584,Male,White,Non-Hispanic/Latino,LateLatent,25 - 29,2/20/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Unknown,LateLatent,25 - 29,2/20/2013
+Hillsborough,Tampa,33616,FeMaleale,White,Unknown,LateLatent,15 - 19,2/20/2013
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,2/25/2013
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,2/27/2013
+Hillsborough,Tampa,33601,Male,Black/African American,Unknown,LateLatent,55 - 64,3/12/2013
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,3/13/2013
+Hillsborough,Brandon,33511,Male,Asian,Unknown,LateLatent,20 - 24,3/14/2013
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,3/21/2013
+Hillsborough,Tampa,33619,Male,White,Unknown,LateLatent,25 - 29,3/27/2013
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,4/3/2013
+Hillsborough,Tampa,33614,Male,Unknown,Unknown,LateLatent,40 - 44,4/10/2013
+Hillsborough,Tampa,33610,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,4/22/2013
+Hillsborough,Tampa,33612,FeMaleale,Asian,Non-Hispanic/Latino,LateLatent,65 -120,4/25/2013
+Hillsborough,Tampa,33619,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,4/25/2013
+Hillsborough,Brandon,33511,Male,Unknown,Unknown,LateLatent,45 - 54,4/26/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,4/30/2013
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,LateLatent,35 - 39,5/22/2013
+Hillsborough,Tampa,33614,FeMaleale,Other,Hispanic/Latino,LateLatent,25 - 29,5/6/2013
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,LateLatent,45 - 54,5/13/2013
+Hillsborough,Tampa,33614,FeMaleale,White,Hispanic/Latino,LateLatent,45 - 54,5/13/2013
+Hillsborough,Tampa,33604,Male,White,Hispanic/Latino,LateLatent,30 - 34,5/16/2013
+Hillsborough,Tampa,33604,FeMaleale,White,Hispanic/Latino,LateLatent,25 - 29,5/16/2013
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,LateLatent,40 - 44,5/17/2013
+Hillsborough,Tampa,33610,FeMaleale,Unknown,Unknown,LateLatent,55 - 64,5/28/2013
+Hillsborough,Tampa,33609,Male,White,Unknown,LateLatent,45 - 54,5/31/2013
+Hillsborough,Tampa,33603,Male,White,Hispanic/Latino,LateLatent,25 - 29,6/20/2013
+Hillsborough,Tampa,33619,Male,White,Hispanic/Latino,LateLatent,35 - 39,6/20/2013
+Hillsborough,Tampa,33647,FeMaleale,White,Non-Hispanic/Latino,LateLatent,35 - 39,6/26/2013
+Hillsborough,Tampa,33615,FeMaleale,White,Hispanic/Latino,LateLatent,45 - 54,7/1/2013
+Hillsborough,Tampa,33613,FeMaleale,Black/African American,Unknown,LateLatent,20 - 24,7/10/2013
+Hillsborough,Tampa,33614,Male,White,Unknown,LateLatent,35 - 39,7/10/2013
+Hillsborough,Plant City,33566,Male,Other,Non-Hispanic/Latino,LateLatent,45 - 54,7/24/2013
+Hillsborough,Lutz,33559,Male,White,Hispanic/Latino,LateLatent,45 - 54,7/25/2013
+Hillsborough,Tampa,33606,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,8/7/2013
+Hillsborough,Brandon,33511,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,8/12/2013
+Hillsborough,Tampa,33607,Male,White,Hispanic/Latino,LateLatent,40 - 44,8/15/2013
+Hillsborough,Tampa,33619,Male,White,Hispanic/Latino,LateLatent,15 - 19,8/15/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,8/16/2013
+Hillsborough,Ruskin,33570,FeMaleale,White,Hispanic/Latino,LateLatent,25 - 29,8/26/2013
+Hillsborough,Apollo Beach,33572,Male,White,Non-Hispanic/Latino,LateLatent,30 - 34,8/30/2013
+Hillsborough,Tampa,33606,Male,Unknown,Unknown,LateLatent,45 - 54,8/29/2013
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,15 - 19,9/4/2013
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,9/6/2013
+Hillsborough,Tampa,33615,Male,White,Hispanic/Latino,LateLatent,40 - 44,9/16/2013
+Hillsborough,Tampa,33647,FeMaleale,White,Hispanic/Latino,LateLatent,45 - 54,9/19/2013
+Hillsborough,Tampa,33613,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,15 - 19,9/19/2013
+Hillsborough,Tampa,33625,FeMaleale,Unknown,Unknown,LateLatent,30 - 34,9/19/2013
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,LateLatent,30 - 34,9/19/2013
+Hillsborough,Tampa,33602,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,9/25/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,9/26/2013
+Hillsborough,Tampa,33647,FeMaleale,Unknown,Unknown,LateLatent,40 - 44,9/30/2013
+Hillsborough,Wimauma,33598,FeMaleale,White,Hispanic/Latino,LateLatent,30 - 34,10/3/2013
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,LateLatent,20 - 24,10/21/2013
+Hillsborough,Tampa,33612,FeMaleale,Other,Non-Hispanic/Latino,LateLatent,40 - 44,10/22/2013
+Hillsborough,Tampa,32835,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,10/30/2013
+Hillsborough,Tampa,33609,FeMaleale,Unknown,Unknown,LateLatent,45 - 54,10/31/2013
+Hillsborough,Valrico,33596,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,11/7/2013
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,11/7/2013
+Hillsborough,Tampa,33626,Male,White,Non-Hispanic/Latino,LateLatent,30 - 34,11/12/2013
+Hillsborough,Riverview,33511,FeMaleale,Unknown,Unknown,LateLatent,45 - 54,11/14/2013
+Hillsborough,Tampa,33615,Male,Black/African American,Non-Hispanic/Latino,LateLatent,65 -120,11/20/2013
+Hillsborough,Lutz,33559,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,11/21/2013
+Hillsborough,Tampa,33607,FeMaleale,Unknown,Unknown,LateLatent,30 - 34,12/6/2013
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,12/9/2013
+Hillsborough,Tampa,33603,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,12/10/2013
+Hillsborough,Tampa,33626,Male,Other,Hispanic/Latino,LateLatent,65 -120,12/11/2013
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Hispanic/Latino,LateLatent,20 - 24,12/12/2013
+Hillsborough,Ruskin,33570,Male,White,Hispanic/Latino,LateLatent,35 - 39,12/12/2013
+Hillsborough,Tampa,33613,Male,White,Hispanic/Latino,LateLatent,20 - 24,12/13/2013
+Hillsborough,Tampa,33615,Male,Other,Non-Hispanic/Latino,LateLatent,25 - 29,12/13/2013
+Hillsborough,Tampa,33626,FeMaleale,White,Hispanic/Latino,LateLatent,65 -120,12/17/2013
+Hillsborough,Tampa,33605,Male,Black/African American,Unknown,LateLatent,40 - 44,12/26/2013
+Hillsborough,Plant City,33566,Male,White,Non-Hispanic/Latino,LateLatent,30 - 34,12/27/2013
+Hillsborough,Tampa,33619,Male,Other,Hispanic/Latino,LateLatent,30 - 34,12/30/2013
+Hillsborough,Brandon,33511,FeMaleale,Unknown,Unknown,LateLatent,30 - 34,12/31/2013
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,12/30/2013
+Hillsborough,Tampa,33614,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,1/10/2014
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,Primary,45 - 54,7/9/2014
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,3/10/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,7/24/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Primary,30 - 34,12/29/2014
+Hillsborough,Tampa,33624,Male,White,Hispanic/Latino,Primary,45 - 54,5/2/2014
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,3/7/2014
+Hillsborough,Plant City,33567,Male,Black/African American,Non-Hispanic/Latino,Primary,40 - 44,5/19/2014
+Hillsborough,Tampa,33614,Male,White,Non-Hispanic/Latino,Primary,40 - 44,1/21/2014
+Hillsborough,Tampa,33629,Male,Unknown,Unknown,Primary,25 - 29,4/29/2014
+Hillsborough,Tampa,33619,Male,White,Non-Hispanic/Latino,Primary,30 - 34,2/26/2014
+Hillsborough,Tampa,33610,Male,White,Hispanic/Latino,Primary,25 - 29,1/31/2014
+Hillsborough,Tampa,33647,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,10/29/2014
+Hillsborough,Tampa,33614,Male,Black/African American,Non-Hispanic/Latino,Primary,25 - 29,10/22/2014
+Hillsborough,Temple Terrace,33617,Male,White,Non-Hispanic/Latino,Primary,20 - 24,5/27/2014
+Hillsborough,Tampa,33613,Male,White,Non-Hispanic/Latino,Primary,40 - 44,1/13/2014
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,Primary,15 - 19,2/5/2014
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,Primary,30 - 34,2/5/2014
+Hillsborough,Tampa,33624,Male,Black/African American,Unknown,Primary,40 - 44,2/7/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,8/11/2014
+Hillsborough,Tampa,33626,Male,White,Non-Hispanic/Latino,Primary,45 - 54,3/11/2014
+Hillsborough,Tampa,33614,Male,Asian,Non-Hispanic/Latino,Primary,30 - 34,3/13/2014
+Hillsborough,Riverview,33579,Male,White,Unknown,Primary,45 - 54,4/9/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,9/17/2014
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,Primary,45 - 54,4/22/2014
+Hillsborough,Lutz,33559,Male,Black/African American,Hispanic/Latino,Primary,20 - 24,4/28/2014
+Hillsborough,Tampa,33603,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,5/20/2014
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,Primary,35 - 39,6/9/2014
+Hillsborough,Gibsonton,33534,FeMaleale,Other,Hispanic/Latino,Primary,20 - 24,7/21/2014
+Hillsborough,Carrollwood,33624,Male,White,Hispanic/Latino,Primary,30 - 34,8/4/2014
+Hillsborough,Tampa,33634,Male,Black/African American,Non-Hispanic/Latino,Primary,40 - 44,9/16/2014
+Hillsborough,Tampa,33604,Male,White,Hispanic/Latino,Primary,20 - 24,9/16/2014
+Hillsborough,Lutz,33559,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,9/18/2014
+Hillsborough,Tampa,33602,Male,Unknown,Unknown,Primary,25 - 29,10/14/2014
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,Primary,20 - 24,10/27/2014
+Hillsborough,Tampa,33647,Male,White,Hispanic/Latino,Primary,25 - 29,10/29/2014
+Hillsborough,Tampa,33617,Male,White,Unknown,Primary,35 - 39,11/17/2014
+Hillsborough,Tampa,33602,Male,Other,Hispanic/Latino,Primary,15 - 19,11/19/2014
+Hillsborough,Tampa,33615,Male,Black/African American,Unknown,Primary,20 - 24,11/21/2014
+Hillsborough,Tampa,33602,Male,Other,Non-Hispanic/Latino,Primary,25 - 29,12/15/2014
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,8/1/2014
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,3/7/2014
+Hillsborough,Tampa,33624,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,10/29/2014
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,5/13/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,8/4/2014
+Hillsborough,Tampa,33617,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,3/27/2014
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,4/21/2014
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,10/23/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,3/18/2014
+Hillsborough,Tampa,33612,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,9/15/2014
+Hillsborough,Odessa,33556,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,1/24/2014
+Hillsborough,Tampa,33684,Male,White,Hispanic/Latino,Secondary,45 - 54,8/12/2014
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,12/31/2014
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,10/29/2014
+Hillsborough,Tampa,33622,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,10/30/2014
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,7/23/2014
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,1/23/2014
+Hillsborough,Tampa,33614,Male,White,Non-Hispanic/Latino,Secondary,55 - 64,11/25/2014
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,8/28/2014
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,5/29/2014
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,3/20/2014
+Hillsborough,Brandon,33511,FeMaleale,Black/African American,Hispanic/Latino,Secondary,30 - 34,1/8/2014
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,1/6/2014
+Hillsborough,Lutz,33558,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,7/17/2014
+Hillsborough,Tampa,33626,Male,White,Non-Hispanic/Latino,Secondary,55 - 64,7/25/2014
+Hillsborough,Tampa,33619,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,7/8/2014
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,1/15/2014
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,Secondary,55 - 64,12/3/2014
+Hillsborough,Tampa,33606,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,7/25/2014
+Hillsborough,Tampa,33615,FeMaleale,White,Hispanic/Latino,Secondary,30 - 34,3/31/2014
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,1/17/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,5/15/2014
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,1/22/2014
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,11/12/2014
+Hillsborough,Tampa,33616,Male,Black/African American,Non-Hispanic/Latino,Secondary,45 - 54,3/12/2014
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,10/15/2014
+Hillsborough,Valrico,33594,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,9/16/2014
+Hillsborough,Tampa,33616,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,4/10/2014
+Hillsborough,Tampa,33609,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,6/24/2014
+Hillsborough,Tampa,33764,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,1/23/2014
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,5/27/2014
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,4/10/2014
+Hillsborough,Gibsonton,33534,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,9/30/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,8/4/2014
+Hillsborough,Tampa,33613,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,10/15/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,6/30/2014
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,1/8/2014
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,4/22/2014
+Hillsborough,Tampa,33613,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,7/14/2014
+Hillsborough,Brandon,33511,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,5/23/2014
+Hillsborough,Tampa,33647,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,7/25/2014
+Hillsborough,Riverview,33579,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,10/22/2014
+Hillsborough,Tampa,33604,FeMaleale,White,Unknown,Secondary,20 - 24,12/31/2014
+Hillsborough,Tampa,33544,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,7/14/2014
+Hillsborough,Tampa,33615,Male,White,Hispanic/Latino,Secondary,30 - 34,5/15/2014
+Hillsborough,Tampa,33635,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,2/13/2014
+Hillsborough,Tampa,33603,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,1/13/2014
+Hillsborough,Lithia,33547,Male,White,Unknown,Secondary,40 - 44,10/9/2014
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,Secondary,40 - 44,7/31/2014
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,4/28/2014
+Hillsborough,Tampa,33637,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,1/7/2014
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,3/27/2014
+Hillsborough,Tampa,33614,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,1/30/2014
+Hillsborough,Brandon,33511,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,2/21/2014
+Hillsborough,Tampa,33634,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,2/27/2014
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,9/16/2014
+Hillsborough,Tampa,33603,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,11/21/2014
+Hillsborough,Wimauma,33598,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,9/11/2014
+Hillsborough,Tampa,33619,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,4/25/2014
+Hillsborough,Tampa,33629,Male,White,Unknown,Secondary,45 - 54,12/19/2014
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,Secondary,55 - 64,2/28/2014
+Hillsborough,Tampa,33617,Male,White,Hispanic/Latino,Secondary,15 - 19,9/3/2014
+Hillsborough,Tampa,33609,Male,White,Hispanic/Latino,Secondary,30 - 34,5/15/2014
+Hillsborough,Tampa,33619,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,4/17/2014
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,4/3/2014
+Hillsborough,Tampa,33614,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,4/28/2014
+Hillsborough,Tampa,33624,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,8/4/2014
+Hillsborough,Tampa,33618,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,4/17/2014
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,1/9/2014
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,3/13/2014
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,7/1/2014
+Hillsborough,Tampa,33612,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,6/27/2014
+Hillsborough,Tampa,33616,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,12/15/2014
+Hillsborough,Tampa,33602,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,2/12/2014
+Hillsborough,Tampa,33616,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,1/22/2014
+Hillsborough,Tampa,33606,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,11/19/2014
+Hillsborough,Tampa,33603,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,1/6/2014
+Hillsborough,Tampa,33625,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,1/22/2014
+Hillsborough,Tampa,33616,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,3/13/2014
+Hillsborough,Tampa,33637,Male,White,Hispanic/Latino,Secondary,30 - 34,3/5/2014
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,11/17/2014
+Hillsborough,Temple Terrace,33637,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,7/15/2014
+Hillsborough,Tampa,33612,Male,White,Hispanic/Latino,Secondary,20 - 24,10/31/2014
+Hillsborough,Tampa,33605,Male,White,Hispanic/Latino,Secondary,35 - 39,1/13/2014
+Hillsborough,Tampa,33607,Male,White,Hispanic/Latino,Secondary,30 - 34,1/13/2014
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,4/23/2014
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,11/14/2014
+Hillsborough,Tampa,33605,Male,White,Unknown,Secondary,30 - 34,10/21/2014
+Hillsborough,Tampa,33604,Male,Black/African American,Unknown,Secondary,15 - 19,5/13/2014
+Hillsborough,Riverview,33579,Male,White,Hispanic/Latino,Secondary,20 - 24,7/24/2014
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,7/24/2014
+Hillsborough,Valrico,33596,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,11/25/2014
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,7/7/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,10/20/2014
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,Secondary,40 - 44,1/6/2014
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,1/22/2014
+Hillsborough,Tampa,33604,Male,White,Hispanic/Latino,Secondary,30 - 34,1/24/2014
+Hillsborough,Plant City,33565,Male,White,Non-Hispanic/Latino,Secondary,30 - 34,10/30/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Unknown,Secondary,30 - 34,2/7/2014
+Hillsborough,Tampa,33635,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,4/23/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,3/4/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,6/20/2014
+Hillsborough,Tampa,33624,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,4/15/2014
+Hillsborough,Tampa,33615,Male,White,Unknown,Secondary,30 - 34,3/25/2014
+Hillsborough,Brandon,33511,Male,Unknown,Unknown,Secondary,30 - 34,3/25/2014
+Hillsborough,Tampa,33614,Male,White,Unknown,Secondary,25 - 29,3/31/2014
+Hillsborough,Tampa,33606,Male,Asian,Non-Hispanic/Latino,Secondary,30 - 34,12/22/2014
+Hillsborough,Riverview,33579,Male,Unknown,Unknown,Secondary,40 - 44,4/7/2014
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,4/8/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,4/10/2014
+Hillsborough,Tampa,33613,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,5/27/2014
+Hillsborough,Tampa,33617,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,4/11/2014
+Hillsborough,Lithia,33547,Male,Unknown,Non-Hispanic/Latino,Secondary,15 - 19,4/11/2014
+Hillsborough,Plant City,33565,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,4/22/2014
+Hillsborough,Tampa,33624,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,4/24/2014
+Hillsborough,Tampa,33614,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,11/25/2014
+Hillsborough,Plant City,33563,Male,White,Hispanic/Latino,Secondary,20 - 24,4/28/2014
+Hillsborough,Tampa,33602,Male,Black/African American,Hispanic/Latino,Secondary,20 - 24,12/16/2014
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,4/30/2014
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,5/1/2014
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,5/1/2014
+Hillsborough,Plant City,33563,Male,White,Hispanic/Latino,Secondary,40 - 44,5/5/2014
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,5/8/2014
+Hillsborough,Apollo Beach,33572,Male,White,Non-Hispanic/Latino,Secondary,30 - 34,5/13/2014
+Hillsborough,Tampa,33604,Male,Other,Hispanic/Latino,Secondary,25 - 29,5/22/2014
+Hillsborough,Tampa,33603,FeMaleale,Black/African American,Unknown,Secondary,45 - 54,5/27/2014
+Hillsborough,Brandon,33511,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,5/28/2014
+Hillsborough,Tampa,33613,Male,White,Non-Hispanic/Latino,Secondary,30 - 34,5/30/2014
+Hillsborough,Tampa,33624,Male,Asian,Non-Hispanic/Latino,Secondary,25 - 29,6/10/2014
+Hillsborough,Tampa,33625,Male,Asian,Non-Hispanic/Latino,Secondary,25 - 29,12/15/2014
+Hillsborough,Ruskin,33570,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,6/23/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,7/3/2014
+Hillsborough,Tampa,33612,Male,White,Unknown,Secondary,30 - 34,7/3/2014
+Hillsborough,Plant City,33567,Male,White,Hispanic/Latino,Secondary,20 - 24,7/11/2014
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,Secondary,25 - 29,12/3/2014
+Hillsborough,Tampa,33647,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,10/2/2014
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,7/28/2014
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,7/29/2014
+Hillsborough,Tampa,33647,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,7/31/2014
+Hillsborough,Tampa,33618,Male,White,Non-Hispanic/Latino,Secondary,65 -120,7/30/2014
+Hillsborough,Plant City,33565,Male,White,Non-Hispanic/Latino,Secondary,20 - 24,7/31/2014
+Hillsborough,Valrico,33594,Male,Other,Non-Hispanic/Latino,Secondary,45 - 54,8/19/2014
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,Secondary,30 - 34,8/27/2014
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,30 - 34,9/15/2014
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,Secondary,35 - 39,9/17/2014
+Hillsborough,Tampa,33611,Male,White,Hispanic/Latino,Secondary,25 - 29,9/23/2014
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,10/6/2014
+Hillsborough,Tampa,33605,Male,Other,Non-Hispanic/Latino,Secondary,45 - 54,9/25/2014
+Hillsborough,Tampa,33619,U,Unknown,Unknown,Secondary,20 - 24,9/26/2014
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,10/8/2014
+Hillsborough,Tampa,33619,Male,White,Unknown,Secondary,20 - 24,10/9/2014
+Hillsborough,Tampa,33615,Male,White,Hispanic/Latino,Secondary,20 - 24,10/17/2014
+Hillsborough,Tampa,33614,Male,Black/African American,Non-Hispanic/Latino,Secondary,25 - 29,10/29/2014
+Hillsborough,Tampa,33610,Male,White,Hispanic/Latino,Secondary,35 - 39,10/30/2014
+Hillsborough,Tampa,33613,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,11/5/2014
+Hillsborough,Tampa,33616,Male,Unknown,Unknown,Secondary,35 - 39,11/10/2014
+Hillsborough,Brandon,33511,Male,White,Hispanic/Latino,Secondary,35 - 39,11/17/2014
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,Secondary,25 - 29,11/19/2014
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,11/20/2014
+Hillsborough,Valrico,33596,FeMaleale,White,Non-Hispanic/Latino,Secondary,40 - 44,11/25/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,Secondary,15 - 19,12/1/2014
+Hillsborough,Tampa,33615,FeMaleale,White,Non-Hispanic/Latino,Secondary,40 - 44,12/11/2014
+Hillsborough,Dover,33527,Male,White,Non-Hispanic/Latino,Secondary,35 - 39,12/17/2014
+Hillsborough,Tampa,33613,Male,White,Non-Hispanic/Latino,Secondary,45 - 54,12/23/2014
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,Secondary,20 - 24,12/31/2014
+Hillsborough,Plant City,33566,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,1/2/2014
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,7/30/2014
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,6/2/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,6/20/2014
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,6/17/2014
+Hillsborough,Tampa,33619,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,7/25/2014
+Hillsborough,Tampa,33556,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,10/9/2014
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,7/10/2014
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,8/19/2014
+Hillsborough,Tampa,33613,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,1/17/2014
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,4/28/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,9/11/2014
+Hillsborough,Tampa,33603,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,10/21/2014
+Hillsborough,Seffner,33584,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,3/10/2014
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/2/2014
+Hillsborough,Tampa,33613,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,10/2/2014
+Hillsborough,Tampa,33609,Male,White,Hispanic/Latino,EarlyLatent,30 - 34,6/27/2014
+Hillsborough,Tampa,33609,Male,White,Hispanic/Latino,EarlyLatent,45 - 54,2/24/2014
+Hillsborough,Tampa,33625,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,8/14/2014
+Hillsborough,Plant City,33563,FeMaleale,Other,Hispanic/Latino,EarlyLatent,55 - 64,1/30/2014
+Hillsborough,Tampa,33625,FeMaleale,White,Hispanic/Latino,EarlyLatent,65 -120,3/20/2014
+Hillsborough,Tampa,33607,Male,Black/African American,Hispanic/Latino,EarlyLatent,40 - 44,2/26/2014
+Hillsborough,Brandon,33511,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,7/23/2014
+Hillsborough,Brandon,33510,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,1/23/2014
+Hillsborough,Tampa,33604,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,7/25/2014
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,40 - 44,7/7/2014
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,3/4/2014
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,9/16/2014
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,10/15/2014
+Hillsborough,Tampa,33675,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,4/25/2014
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,7/25/2014
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,3/28/2014
+Hillsborough,Tampa,33603,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,5/2/2014
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,9/30/2014
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,EarlyLatent,55 - 64,2/10/2014
+Hillsborough,Tampa,33615,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,7/8/2014
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,2/12/2014
+Hillsborough,Tampa,33613,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,9/19/2014
+Hillsborough,Tampa,33603,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,12/10/2014
+Hillsborough,Tampa,33637,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,9/12/2014
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,55 - 64,6/6/2014
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,30 - 34,9/30/2014
+Hillsborough,Tampa,33634,Male,White,Non-Hispanic/Latino,EarlyLatent,30 - 34,11/24/2014
+Hillsborough,Tampa,33614,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,10/16/2014
+Hillsborough,Tampa,33607,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,6/6/2014
+Hillsborough,Tampa,33607,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,2/24/2014
+Hillsborough,Temple Terrace,33617,Male,White,Hispanic/Latino,EarlyLatent,30 - 34,10/29/2014
+Hillsborough,Tampa,33647,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,9/16/2014
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,2/27/2014
+Hillsborough,Tampa,33602,FeMaleale,White,Hispanic/Latino,EarlyLatent,25 - 29,7/14/2014
+Hillsborough,Lutz,33559,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,11/12/2014
+Hillsborough,Tampa,33604,Male,White,Hispanic/Latino,EarlyLatent,35 - 39,6/10/2014
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,2/27/2014
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,9/22/2014
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,6/24/2014
+Hillsborough,Tampa,33625,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/1/2014
+Hillsborough,Lutz,33549,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,7/31/2014
+Hillsborough,Tampa,33624,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,1/9/2014
+Hillsborough,Tampa,33610,Male,Other,Hispanic/Latino,EarlyLatent,35 - 39,11/10/2014
+Hillsborough,Plant City,33567,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,7/8/2014
+Hillsborough,Tampa,33615,Male,White,Hispanic/Latino,EarlyLatent,20 - 24,6/10/2014
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,1/30/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,9/18/2014
+Hillsborough,Brandon,33510,Male,White,Hispanic/Latino,EarlyLatent,25 - 29,2/28/2014
+Hillsborough,Brandon,33511,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,8/25/2014
+Hillsborough,Ruskin,33570,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,7/8/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,7/23/2014
+Hillsborough,Tampa,33607,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,12/10/2014
+Hillsborough,Tampa,33613,Male,White,Hispanic/Latino,EarlyLatent,25 - 29,8/12/2014
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,7/7/2014
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,5/8/2014
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,5/21/2014
+Hillsborough,Tampa,33624,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/23/2014
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,11/12/2014
+Hillsborough,Tampa,33602,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,11/14/2014
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,12/8/2014
+Hillsborough,Tampa,33604,Male,Black/African American,Hispanic/Latino,EarlyLatent,25 - 29,8/13/2014
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,9/29/2014
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,9/2/2014
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/5/2014
+Hillsborough,Tampa,33614,Male,White,Non-Hispanic/Latino,EarlyLatent,30 - 34,4/7/2014
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,7/1/2014
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,10/3/2014
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,3/6/2014
+Hillsborough,Lutz,33559,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,9/12/2014
+Hillsborough,Tampa,33609,Male,Asian,Non-Hispanic/Latino,EarlyLatent,25 - 29,5/15/2014
+Hillsborough,Tampa,33629,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,3/11/2014
+Hillsborough,Tampa,33625,Male,White,Non-Hispanic/Latino,EarlyLatent,20 - 24,9/8/2014
+Hillsborough,Brandon,33511,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,9/22/2014
+Hillsborough,Lutz,33559,Male,White,Non-Hispanic/Latino,EarlyLatent,15 - 19,6/6/2014
+Hillsborough,Tampa,33619,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,12/23/2014
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,2/11/2014
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,2/4/2014
+Hillsborough,Tampa,33613,Male,Black/African American,Hispanic/Latino,EarlyLatent,20 - 24,7/10/2014
+Hillsborough,Tampa,33616,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,11/20/2014
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,35 - 39,1/14/2014
+Hillsborough,Tampa,33615,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,4/24/2014
+Hillsborough,Riverview,33578,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,9/16/2014
+Hillsborough,Tampa,33603,FeMaleale,Other,Hispanic/Latino,EarlyLatent,65 -120,11/5/2014
+Hillsborough,Brandon,33510,Male,White,Hispanic/Latino,EarlyLatent,35 - 39,7/3/2014
+Hillsborough,Tampa,33617,Male,White,Non-Hispanic/Latino,EarlyLatent,20 - 24,11/14/2014
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,EarlyLatent,25 - 29,7/8/2014
+Hillsborough,Plant City,33566,Male,White,Non-Hispanic/Latino,EarlyLatent,30 - 34,10/16/2014
+Hillsborough,Tampa,33609,FeMaleale,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,2/26/2014
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,1/3/2014
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,1/6/2014
+Hillsborough,Tampa,33602,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,1/14/2014
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,1/16/2014
+Hillsborough,Plant City,33563,Male,Unknown,Unknown,EarlyLatent,65 -120,1/17/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,1/29/2014
+Hillsborough,Tampa,33635,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,10/31/2014
+Hillsborough,Tampa,33619,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,4/22/2014
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,5/27/2014
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,EarlyLatent,45 - 54,2/25/2014
+Hillsborough,Tampa,33634,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,3/4/2014
+Hillsborough,Tampa,33614,Male,Other,Hispanic/Latino,EarlyLatent,30 - 34,3/17/2014
+Hillsborough,Tampa,33615,FeMaleale,White,Hispanic/Latino,EarlyLatent,40 - 44,3/13/2014
+Hillsborough,Tampa,33613,Male,White,Hispanic/Latino,EarlyLatent,30 - 34,3/17/2014
+Hillsborough,Tampa,33619,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,7/3/2014
+Hillsborough,Tampa,33619,Male,White,Hispanic/Latino,EarlyLatent,25 - 29,4/29/2014
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,EarlyLatent,35 - 39,4/29/2014
+Hillsborough,Tampa,33612,FeMaleale,American Indian/Alaskan Native,Non-Hispanic/Latino,EarlyLatent,25 - 29,5/7/2014
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,15 - 19,10/24/2014
+Hillsborough,Riverview,33569,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,5/19/2014
+Hillsborough,Wimauma,33598,Male,White,Hispanic/Latino,EarlyLatent,35 - 39,5/22/2014
+Hillsborough,Ruskin,33570,FeMaleale,Unknown,Hispanic/Latino,EarlyLatent,40 - 44,6/13/2014
+Hillsborough,Tampa,33610,Male,White,Non-Hispanic/Latino,EarlyLatent,25 - 29,6/17/2014
+Hillsborough,Tampa,33604,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,45 - 54,6/23/2014
+Hillsborough,Tampa,33619,Male,White,Hispanic/Latino,EarlyLatent,20 - 24,6/26/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Hispanic/Latino,EarlyLatent,30 - 34,7/3/2014
+Hillsborough,Plant City,33567,Male,White,Hispanic/Latino,EarlyLatent,25 - 29,7/17/2014
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,EarlyLatent,15 - 19,7/28/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,8/21/2014
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,EarlyLatent,25 - 29,8/29/2014
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,EarlyLatent,40 - 44,9/15/2014
+Hillsborough,Tampa,33647,FeMaleale,Asian,Non-Hispanic/Latino,EarlyLatent,30 - 34,10/2/2014
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,EarlyLatent,20 - 24,10/31/2014
+Hillsborough,Tampa,33602,Male,Asian,Unknown,EarlyLatent,25 - 29,10/14/2014
+Hillsborough,Ruskin,33570,FeMaleale,Other,Hispanic/Latino,EarlyLatent,25 - 29,12/12/2014
+Hillsborough,Tampa,33614,Male,Other,Unknown,EarlyLatent,30 - 34,7/31/2014
+Hillsborough,Tampa,33625,Male,White,Hispanic/Latino,LateLatent,55 - 64,8/11/2014
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,3/5/2014
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,8/25/2014
+Hillsborough,Tampa,33617,Male,White,Non-Hispanic/Latino,LateLatent,55 - 64,5/2/2014
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,4/1/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,10/29/2014
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,2/27/2014
+Hillsborough,Tampa,33604,Male,White,Non-Hispanic/Latino,LateLatent,65 -120,12/19/2014
+Hillsborough,Tampa,33615,FeMaleale,White,Hispanic/Latino,LateLatent,40 - 44,3/3/2014
+Hillsborough,Tampa,33612,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,4/28/2014
+Hillsborough,Lutz,33549,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,4/17/2014
+Hillsborough,Tampa,33605,Male,White,Hispanic/Latino,LateLatent,40 - 44,5/20/2014
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,11/20/2014
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,7/31/2014
+Hillsborough,Riverview,33579,Male,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,7/8/2014
+Hillsborough,Tampa,33615,Male,White,Hispanic/Latino,LateLatent,65 -120,9/29/2014
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,65 -120,3/13/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,11/25/2014
+Hillsborough,Ruskin,33570,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,3/17/2014
+Hillsborough,Tampa,33637,Male,White,Non-Hispanic/Latino,LateLatent,25 - 29,7/29/2014
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,11/7/2014
+Hillsborough,Riverview,33579,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,3/7/2014
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,8/11/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,12/16/2014
+Hillsborough,Brandon,33511,Male,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,10/23/2014
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Unknown,LateLatent,20 - 24,2/14/2014
+Hillsborough,Brandon,33510,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,4/25/2014
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,LateLatent,65 -120,7/24/2014
+Hillsborough,Tampa,33602,Male,White,Hispanic/Latino,LateLatent,40 - 44,2/20/2014
+Hillsborough,Tampa,33614,Male,White,Non-Hispanic/Latino,LateLatent,25 - 29,7/1/2014
+Hillsborough,Seffner,33584,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,7/11/2014
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,3/31/2014
+Hillsborough,Tampa,33609,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,11/14/2014
+Hillsborough,Dover,33527,FeMaleale,Black/African American,Hispanic/Latino,LateLatent,25 - 29,4/29/2014
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,10/9/2014
+Hillsborough,Tampa,33616,Male,White,Hispanic/Latino,LateLatent,40 - 44,8/8/2014
+Hillsborough,Tampa,33613,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,8/7/2014
+Hillsborough,Tampa,33606,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,12/22/2014
+Hillsborough,Tampa,33623,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,9/25/2014
+Hillsborough,Tampa,33624,Male,White,Hispanic/Latino,LateLatent,55 - 64,12/1/2014
+Hillsborough,Tampa,33618,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,6/6/2014
+Hillsborough,Seffner,33584,Male,White,Non-Hispanic/Latino,LateLatent,55 - 64,10/14/2014
+Hillsborough,Plant City,33563,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,11/21/2014
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,LateLatent,30 - 34,11/24/2014
+Hillsborough,Tampa,33617,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,3/20/2014
+Hillsborough,Apollo Beach,33572,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,9/8/2014
+Hillsborough,Tampa,33614,Male,Black/African American,Unknown,LateLatent,55 - 64,2/5/2014
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,6/26/2014
+Hillsborough,Tampa,32113,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,9/16/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,9/17/2014
+Hillsborough,Tampa,33629,Male,Other,Non-Hispanic/Latino,LateLatent,45 - 54,12/24/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,8/18/2014
+Hillsborough,Tampa,33603,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,10/30/2014
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,1/22/2014
+Hillsborough,Tampa,33607,Male,White,Hispanic/Latino,LateLatent,45 - 54,5/29/2014
+Hillsborough,Gibsonton,33534,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,7/29/2014
+Hillsborough,Brandon,33511,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,5/7/2014
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,LateLatent,45 - 54,10/13/2014
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,7/1/2014
+Hillsborough,Tampa,33607,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,15 - 19,2/7/2014
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,5/19/2014
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,3/27/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,2/21/2014
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,5/21/2014
+Hillsborough,Ruskin,33570,Male,Other,Hispanic/Latino,LateLatent,25 - 29,5/23/2014
+Hillsborough,Tampa,33602,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,4/29/2014
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,11/3/2014
+Hillsborough,Tampa,33604,Male,White,Hispanic/Latino,LateLatent,40 - 44,7/3/2014
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,LateLatent,25 - 29,2/25/2014
+Hillsborough,Tampa,33610,FeMaleale,White,Hispanic/Latino,LateLatent,45 - 54,2/6/2014
+Hillsborough,Tampa,33617,Male,White,Hispanic/Latino,LateLatent,20 - 24,3/20/2014
+Hillsborough,Wimauma,33598,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,5/5/2014
+Hillsborough,Tampa,33611,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,10/28/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,10/9/2014
+Hillsborough,Brandon,33511,Male,White,Hispanic/Latino,LateLatent,35 - 39,8/14/2014
+Hillsborough,Tampa,33603,Male,White,Non-Hispanic/Latino,LateLatent,40 - 44,1/16/2014
+Hillsborough,Tampa,33612,FeMaleale,White,Non-Hispanic/Latino,LateLatent,55 - 64,7/15/2014
+Hillsborough,Tampa,33619,Male,Black/African American,Unknown,LateLatent,25 - 29,1/13/2014
+Hillsborough,Temple Terrace,33637,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,1/17/2014
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,1/15/2014
+Hillsborough,Riverview,33578,Male,White,Non-Hispanic/Latino,LateLatent,35 - 39,2/20/2014
+Hillsborough,Tampa,33611,Male,Asian,Non-Hispanic/Latino,LateLatent,40 - 44,12/1/2014
+Hillsborough,Tampa,33616,Male,Other,Hispanic/Latino,LateLatent,25 - 29,12/1/2014
+Hillsborough,Tampa,33610,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,4/28/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,1/14/2014
+Hillsborough,Valrico,33596,Male,Other,Non-Hispanic/Latino,LateLatent,45 - 54,1/13/2014
+Hillsborough,Tampa,33617,FeMaleale,Other,Non-Hispanic/Latino,LateLatent,30 - 34,1/10/2014
+Hillsborough,Tampa,33610,Male,White,Non-Hispanic/Latino,LateLatent,30 - 34,1/15/2014
+Hillsborough,Tampa,33604,FeMaleale,Other,Hispanic/Latino,LateLatent,35 - 39,1/15/2014
+Hillsborough,Tampa,33615,Male,Other,Unknown,LateLatent,30 - 34,1/16/2014
+Hillsborough,Tampa,33615,Male,Other,Hispanic/Latino,LateLatent,25 - 29,1/21/2014
+Hillsborough,Tampa,33635,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,2/3/2014
+Hillsborough,Brandon,33510,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,2/4/2014
+Hillsborough,Plant City,33565,Male,White,Non-Hispanic/Latino,LateLatent,30 - 34,3/7/2014
+Hillsborough,Tampa,33605,Male,White,Non-Hispanic/Latino,LateLatent,30 - 34,2/14/2014
+Hillsborough,Tampa,33603,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,2/17/2014
+Hillsborough,Tampa,33613,Male,Asian,Non-Hispanic/Latino,LateLatent,40 - 44,2/18/2014
+Hillsborough,Tampa,33619,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,2/20/2014
+Hillsborough,Tampa,33604,Male,Other,Hispanic/Latino,LateLatent,20 - 24,2/24/2014
+Hillsborough,Lithia,33547,FeMaleale,White,Non-Hispanic/Latino,LateLatent,30 - 34,3/6/2014
+Hillsborough,Valrico,33594,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,15 - 19,3/10/2014
+Hillsborough,Tampa,33610,Male,White,Hispanic/Latino,LateLatent,35 - 39,3/11/2014
+Hillsborough,Tampa,33611,Male,Unknown,Unknown,LateLatent,30 - 34,3/12/2014
+Hillsborough,Tampa,33647,Male,White,Hispanic/Latino,LateLatent,20 - 24,3/13/2014
+Hillsborough,Tampa,33615,Male,Unknown,Unknown,LateLatent,30 - 34,3/13/2014
+Hillsborough,Tampa,33624,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,3/20/2014
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,LateLatent,20 - 24,5/19/2014
+Hillsborough,Tampa,33605,Male,Other,Non-Hispanic/Latino,LateLatent,25 - 29,4/3/2014
+Hillsborough,Plant City,33563,FeMaleale,White,Hispanic/Latino,LateLatent,40 - 44,4/21/2014
+Hillsborough,Tampa,33611,Male,White,Non-Hispanic/Latino,LateLatent,55 - 64,4/24/2014
+Hillsborough,Riverview,33578,FeMaleale,Black/African American,Unknown,LateLatent,25 - 29,4/25/2014
+Hillsborough,Tampa,33614,Male,White,Non-Hispanic/Latino,LateLatent,25 - 29,4/25/2014
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,LateLatent,55 - 64,4/28/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,6/27/2014
+Hillsborough,Tampa,33647,FeMaleale,Other,Hispanic/Latino,LateLatent,20 - 24,5/6/2014
+Hillsborough,Tampa,33637,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,5/7/2014
+Hillsborough,Tampa,33647,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,5/8/2014
+Hillsborough,Ruskin,33570,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,6/2/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,5/28/2014
+Hillsborough,Plant City,33566,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,5/20/2014
+Hillsborough,Brandon,33510,Male,Black/African American,Unknown,LateLatent,20 - 24,5/22/2014
+Hillsborough,Tampa,33624,FeMaleale,White,Hispanic/Latino,LateLatent,15 - 19,5/23/2014
+Hillsborough,Tampa,33629,Male,White,Hispanic/Latino,LateLatent,20 - 24,6/2/2014
+Hillsborough,Tampa,33614,Male,White,Unknown,LateLatent,30 - 34,6/2/2014
+Hillsborough,Tampa,33611,Male,Unknown,Unknown,LateLatent,30 - 34,6/5/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,6/9/2014
+Hillsborough,Ruskin,33570,FeMaleale,White,Hispanic/Latino,LateLatent,40 - 44,6/16/2014
+Hillsborough,Tampa,33619,FeMaleale,White,Non-Hispanic/Latino,LateLatent,20 - 24,6/26/2014
+Hillsborough,Tampa,33614,FeMaleale,White,Hispanic/Latino,LateLatent,40 - 44,7/7/2014
+Hillsborough,Tampa,33647,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,7/11/2014
+Hillsborough,Brandon,33510,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,7/29/2014
+Hillsborough,Brandon,33509,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,7/24/2014
+Hillsborough,Tampa,33610,Male,Black/African American,Unknown,LateLatent,25 - 29,7/31/2014
+Hillsborough,Tampa,33604,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,7/31/2014
+Hillsborough,Tampa,33629,Male,White,Non-Hispanic/Latino,LateLatent,45 - 54,8/20/2014
+Hillsborough,Tampa,33647,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,9/25/2014
+Hillsborough,Tampa,33611,Male,White,Hispanic/Latino,LateLatent,35 - 39,8/18/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,LateLatent,25 - 29,8/19/2014
+Hillsborough,Tampa,33613,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,8/18/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,LateLatent,15 - 19,10/27/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,9/12/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,8/28/2014
+Hillsborough,Tampa,33626,Male,White,Hispanic/Latino,LateLatent,30 - 34,9/2/2014
+Hillsborough,Brandon,33511,Male,Unknown,Unknown,LateLatent,30 - 34,9/2/2014
+Hillsborough,Tampa,33605,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,9/4/2014
+Hillsborough,Tampa,33675,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,9/4/2014
+Hillsborough,Tampa,33615,FeMaleale,Unknown,Unknown,LateLatent,35 - 39,9/9/2014
+Hillsborough,Tampa,33604,Male,White,Hispanic/Latino,LateLatent,30 - 34,9/10/2014
+Hillsborough,Tampa,33614,Male,White,Non-Hispanic/Latino,LateLatent,55 - 64,9/12/2014
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,LateLatent,35 - 39,9/22/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,9/22/2014
+Hillsborough,Tampa,33612,Male,Black/African American,Non-Hispanic/Latino,LateLatent,40 - 44,9/24/2014
+Hillsborough,Brandon,33511,Male,Other,Hispanic/Latino,LateLatent,45 - 54,9/30/2014
+Hillsborough,Apollo Beach,33572,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,10/1/2014
+Hillsborough,Tampa,33604,Male,Unknown,Unknown,LateLatent,35 - 39,10/6/2014
+Hillsborough,Tampa,33615,FeMaleale,Unknown,Unknown,LateLatent,25 - 29,10/9/2014
+Hillsborough,Tampa,33610,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,10/21/2014
+Hillsborough,Tampa,33604,FeMaleale,Black/African American,Non-Hispanic/Latino,LateLatent,35 - 39,10/23/2014
+Hillsborough,Tampa,33614,FeMaleale,Other,Hispanic/Latino,LateLatent,30 - 34,10/30/2014
+Hillsborough,Tampa,33603,Male,Black/African American,Non-Hispanic/Latino,LateLatent,30 - 34,11/3/2014
+Hillsborough,Tampa,33607,Male,White,Unknown,LateLatent,25 - 29,11/4/2014
+Hillsborough,Tampa,33614,FeMaleale,Other,Hispanic/Latino,LateLatent,35 - 39,11/7/2014
+Hillsborough,Tampa,33617,Male,White,Non-Hispanic/Latino,LateLatent,35 - 39,12/8/2014
+Hillsborough,Tampa,33605,FeMaleale,White,Hispanic/Latino,LateLatent,45 - 54,11/17/2014
+Hillsborough,Tampa,33613,FeMaleale,Unknown,Unknown,LateLatent,45 - 54,11/21/2014
+Hillsborough,Tampa,33607,Male,Black/African American,Non-Hispanic/Latino,LateLatent,20 - 24,11/26/2014
+Hillsborough,Tampa,33603,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,12/5/2014
+Hillsborough,Tampa,33607,FeMaleale,White,Hispanic/Latino,LateLatent,35 - 39,12/9/2014
+Hillsborough,Tampa,33602,Male,White,Unknown,LateLatent,20 - 24,12/10/2014
+Hillsborough,Tampa,33605,Male,Black/African American,Unknown,LateLatent,25 - 29,12/11/2014
+Hillsborough,Tampa,33615,FeMaleale,Other,Unknown,LateLatent,35 - 39,12/18/2014
+Hillsborough,Tampa,33607,Male,Other,Unknown,LateLatent,30 - 34,12/19/2014
+Hillsborough,Tampa,33604,Male,White,Hispanic/Latino,LateLatent,20 - 24,12/29/2014
+Hillsborough,Tampa,33614,Male,White,Hispanic/Latino,LateLatent,45 - 54,12/29/2014
+Hillsborough,Tampa,33617,Male,Black/African American,Non-Hispanic/Latino,LateLatent,45 - 54,12/11/2014
+Hillsborough,Tampa,33619,Male,Other,Hispanic/Latino,LateLatent,45 - 54,12/13/2014
