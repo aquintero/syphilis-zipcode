@@ -166,7 +166,36 @@ def main():
                 
                 test_results = pd.DataFrame(dict(r2 = [score]))
                 test_results.to_csv(test_results_file, sep = ',', index = False)
-                
+            
+def main2():
+    np.random.seed(0)
 
+    x_file = 'data/hills-census_fixed.csv'
+    y_file = 'data/syphilis-count.csv'
+    
+    ignore = ['FID', 'ZCTA5CE10', 'GEOID10', 'ALAND10', 'AWATER10', 'INTPTLAT10', 'INTPTLON10']
+    
+    x_df = pd.read_csv(x_file, sep = ',')
+    y_df = pd.read_csv(y_file, sep = ',')
+    
+    x = x_df.drop(ignore, axis = 1).values   
+    x_df = x_df.merge(y_df, how = 'left', left_on = 'ZCTA5CE10', right_on = 'zip')
+    x_df['count'].fillna(0, inplace = True)
+    y = x_df['count'].values
+
+    train_x, test_x, train_y, test_y = train_test_split(x, y, test_size = 0.2, random_state = np.random.randint(1000))
+
+    estimator = ElasticNetCV(selection = 'random', random_state = np.random.randint(1000))
+    ada = AdaBoostSelector(estimator, dict())
+    
+    scaler = StandardScaler()
+    train_x = scaler.fit_transform(train_x)
+    ada.fit(train_x, train_y)
+    print(x_df.columns[ada.team])
+    train_x = ada.transform(train_x)
+    
+    estimator.fit(train_x, train_y)
+    print(estimator.score(test_x, test_y))
+    
 if __name__ == '__main__':
     main()
